@@ -33,7 +33,7 @@ http://primestreams.tv:826/eutva3month129/WUZP6AfD48/111200&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/532px-UFC_logo.svg.png" tvg-url="" group-title="Sport",UFC Fight Pass HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-url="" group-title="Sport",TNT Sports
-http://200.54.19.131:8500/play/a0dm/index.m3u8
+http://200.54.19.131:8500/play/a0dm/index.m3u8?sd=10&rebase=on&output=.ts
 #EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="Sport",ADRENALINA
 http://tecnotv.club/coo/smartv.php?c=265_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="Sport",AyM Sports
