@@ -308,11 +308,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u
 #EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png" group-title="Ocio", Anime Loving TV
 http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="105940" tvg-name="Toonizaki TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png" group-title="Ocio", Toonizaki TV
-https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
+https://inliveserver.com:1936/m3ulive/m3ulive/chunklist_w877266350.m3u8
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png" group-title="Ocio", Cartoon Netwotk
 http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/0f/3f/f2/0f3ff2157f4e941dab3d0f782e3d0946.jpg" tvg-url="" group-title="Ocio",Dragon Ball 24/7
-http://tv.pluscrt.com:25461/josefierro/Ny9OuwWabi/37816
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23842
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",Los Simpsons 24/7
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
