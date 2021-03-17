@@ -131,20 +131,22 @@ http://tecnotv.club/pzz/smartv.php?c=169_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1704_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-premier-hd_thumb_2re326h5.png" group-title="TV PREMIUM",Golden PREMIER *
 http://tecnotv.club/pzz/smartv.php?c=1704_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo_thumb_hv26mbbm.png" group-title="TV PREMIUM",HBO
-http://tecnotv.club/pzz/smartv.php?c=1467_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-2_thumb_pxjkqhhs.png" group-title="TV PREMIUM",HBO 2
-http://tecnotv.club/pzz/smartv.php?c=1555_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-plus_thumb_g4ptf49i.png" group-title="TV PREMIUM",HBO Plus
-http://tecnotv.club/pzz/smartv.php?c=1500_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hboMundi_thumb_4tenpf89.png" group-title="TV PREMIUM",HBO Mundi *
-http://tecnotv.club/pzz/smartv.php?c=1535_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-pop_thumb.png" group-title="TV PREMIUM",HBO POP *
-http://tecnotv.club/pzz/smartv.php?c=1855_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-signature_thumb_liijapuk.png" group-title="TV PREMIUM",HBO Signature *
-http://tecnotv.club/pzz/smartv.php?c=229_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-xtreme_thumb.png" group-title="TV PREMIUM",HBO Xtreme
-http://tecnotv.club/pzz/smartv.php?c=1536_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbo
+#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbo2
+#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hboplus
+#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbofamily
+#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbosignature
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxprime
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxlatino
+#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxup
 #EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_dvotcczj.png" group-title="TV PREMIUM",GALAVISION
 http://tecnotv.club/pzz/smartv.php?c=87_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_4s30ej0r.png" group-title="TV PREMIUM",TELEMUNDO
