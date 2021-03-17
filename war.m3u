@@ -34,56 +34,52 @@ http://primestreams.tv:826/eutva3month129/WUZP6AfD48/111200&f=.m3u8
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-url="" group-title="Sport",TNT Sports
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/1844
-#EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="Sport",ADRENALINA
-http://tecnotv.club/pzz/smartv.php?c=265_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="Sport",AyM Sports
-http://tecnotv.club/pzz/smartv.php?c=262_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/basket-americas_thumb.png" group-title="Sport",BASKET AMERICAS
-http://tecnotv.club/pzz/smartv.php?c=1572_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="Sport",BEIN SPORTS Ñ
-http://tecnotv.club/pzz/smartv.php?c=1844_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="Sport",BEIN SPORTS HD
-http://tecnotv.club/pzz/smartv.php?c=1844_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/claro_sports_thumb.png" group-title="Sport",BEIN SPORT 
-http://tecnotv.club/pzz/smartv.php?c=1868_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="Sport",ESPN Deportes
-http://tecnotv.club/pzz/smartv.php?c=1837_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="Sport",ESPN 1 MX
-http://tecnotv.club/pzz/smartv.php?c=1876_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="Sport",ESPN 2 MX
-http://tecnotv.club/pzz/smartv.php?c=131_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="Sport",ESPN 3 MX
-http://tecnotv.club/pzz/smartv.php?c=1391_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="Sport",FOX SPORTS 1 MX
-http://tecnotv.club/pzz/smartv.php?c=1873_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="Sport",FOX SPORTS 2 MX
-http://tecnotv.club/pzz/smartv.php?c=260_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="Sport",FOX SPORTS 3 MX
-http://tecnotv.club/pzz/smartv.php?c=261_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="Sport",CARACOL ***
-http://tecnotv.club/pzz/smartv.php?c=74_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_hra9dw5v.png" group-title="Sport",GALAVISION
-http://tecnotv.club/pzz/smartv.php?c=1756_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golf-hd_thumb_1pljbk6n.png" group-title="Sport",GOLF CHANNEL
-http://tecnotv.club/pzz/smartv.php?c=253_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nbcsn_thumb_x4eybjw0.png" group-title="Sport",NBCSN
-http://tecnotv.club/pzz/smartv.php?c=1789_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/NFL_logo_thumb_r29zzwtg.png" group-title="Sport",FOX NFL
-http://tecnotv.club/pzz/smartv.php?c=83_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="Sport",HAVOC
-http://tecnotv.club/pzz/smartv.php?c=266_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="Sport",LAS Deportes
-http://tecnotv.club/pzz/smartv.php?c=263_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="Sport",RCN***
-http://tecnotv.club/pzz/smartv.php?c=47_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_w4gvhs2a.png" group-title="Sport",TELEMUNDO
-http://tecnotv.club/pzz/smartv.php?c=1779_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_ngsn6tna.png" group-title="Sport",TUDN MX
-http://tecnotv.club/pzz/smartv.php?c=267_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_4vvy03nm.png" group-title="Sport",TUDN US
-http://tecnotv.club/pzz/smartv.php?c=1782_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="Sport",TVC Deportes
-http://tecnotv.club/pzz/smartv.php?c=264_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="Sport",FOX SPORTS ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox-sports1ar
+#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="Sport",FOX SPORTS 2 ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox-sports2ar
+#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="Sport",FOX SPORTS 3 ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox-sports3ar
+#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="Sport",ESPN ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn1ar
+#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="Sport",ESPN 2 ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn2ar
+#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="Sport",ESPN 3 ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn3ar
+#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="Sport",FOX SPORTS MEXICO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox-sports1mx
+#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="Sport",FOX SPORTS 2 MEXICO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox-sports2mx
+#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="Sport",FOX SPORTS 3 MEXICO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox-sports3mx
+#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="Sport",ESPN MEXICO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn1mx
+#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="Sport",ESPN 2 MEXICO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn2mx
+#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="Sport",ESPN 3 MEXICO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn3mx
+#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="Sport",ESPN + ARGENTINA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=espn+ar
+#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="Sport",DIRECTV SPORTS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=directv-sports
+#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="Sport",DIRECTV SPORTS 2
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=directv-sports2
+#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="Sport",DIRECTV SPORTS PLUS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=directv-sports-plus
+#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="Sport",TYC SPORTS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=tyc
+#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="Sport",GOLF CHANNEL
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=golflatino
+#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Sport",FOX PREMIUM ACTION
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxaction
+#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="Sport",ADRENALINA SPORTS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=adrenalinatv
+#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="Sport",AYM SPORTS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=aymsports
+#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Sport",UNIVISION DEPORTES
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=univisiondeportes
+#EXTINF:-1 tvg-logo="/logos/win.png" group-title="Sport",WIN SPORTS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=winsports
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
 http://tecnotv.club/pzz/smartv.php?c=136_&f=.m3u8
@@ -97,32 +93,32 @@ http://tecnotv.club/pzz/smartv.php?c=133_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1541_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_782zb3ya.png" group-title="TV PREMIUM",IMAGEN TV
 http://tecnotv.club/pzz/smartv.php?c=130_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxaction_thumb_650zv1c1.png" group-title="TV PREMIUM",STAR ACTION
-http://tecnotv.club/pzz/smartv.php?c=170_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TV PREMIUM",SPACE
-http://tecnotv.club/pzz/smartv.php?c=180_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/space.png" group-title="Sport",SPACE
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=space
 #EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_s76802wb.png" group-title="TV PREMIUM",UNIMAS
 http://tecnotv.club/pzz/smartv.php?c=1784_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/universo_thumb_xl2cotq2.png" group-title="TV PREMIUM",UNIVERSO
 http://tecnotv.club/pzz/smartv.php?c=1849_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
 http://tecnotv.club/pzz/smartv.php?c=1856_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-action_thumb_z891xpnn.png" group-title="TV PREMIUM",STAR Action
-http://tecnotv.club/pzz/smartv.php?c=1496_&f=.m3u8
-http://tecnotv.club/pzz/smartv.php?c=1557_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/HBO_Family_thumb_l8f59eqc.png" group-title="TV PREMIUM",STAR fun
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxcinema-hd_thumb_w0soq46n.png" group-title="TV PREMIUM",STAR Cinema *
-http://tecnotv.club/pzz/smartv.php?c=1626_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_comedy_thumb_ac5fe8wf.png" group-title="TV PREMIUM",STAR Comedy *
-http://tecnotv.club/pzz/smartv.php?c=234_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-classics_thumb_9gsz52h7.png" group-title="TV PREMIUM",STAR Classics
-http://tecnotv.club/pzz/smartv.php?c=1498_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",STAR Family
-http://tecnotv.club/pzz/smartv.php?c=235_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
-http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxclassics
-#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR PREMIUM SERIES
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="TV PREMIUM",FOX LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox
+#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="TV PREMIUM",FOX PREMIUM ACTION
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxaction
+#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="TV PREMIUM",FOX PREMIUM SERIES
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxseries
+#EXTINF:-1 tvg-logo="/logos/foxfamily.png" group-title="TV PREMIUM",FOX PREMIUM FAMILY
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxfamily
+#EXTINF:-1 tvg-logo="/logos/foxcinema.png" group-title="TV PREMIUM",FOX PREMIUM CINEMA
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxcinema
+#EXTINF:-1 tvg-logo="/logos/foxcomedy.png" group-title="TV PREMIUM",FOX PREMIUM COMEDY
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxcomedy
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="TV PREMIUM",FOX PREMIUM CLASICS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxclassics
+#EXTINF:-1 tvg-logo="/logos/foxmovies.png" group-title="TV PREMIUM",FOX PREMIUM MOVIES
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxmovies
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="TV PREMIUM",FOX LIFE LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxlife
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN *
 http://tecnotv.club/pzz/smartv.php?c=166_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-edge_thumb_jlywismv.png" group-title="TV PREMIUM",Golden EDGE
@@ -131,21 +127,21 @@ http://tecnotv.club/pzz/smartv.php?c=169_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1704_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-premier-hd_thumb_2re326h5.png" group-title="TV PREMIUM",Golden PREMIER *
 http://tecnotv.club/pzz/smartv.php?c=1704_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO LATINO
+#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Sport",HBO LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbo
-#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
+#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Sport",HBO 2
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbo2
-#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
+#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Sport",HBO PLUS
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hboplus
-#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
+#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Sport",HBO FAMILY
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbofamily
-#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Sport",HBO SIGNATURE
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbosignature
-#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Sport",HBO XTREME
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxprime
-#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Sport",HBO MUNDI
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxlatino
-#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
+#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Sport",HBO POP
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxup
 #EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_dvotcczj.png" group-title="TV PREMIUM",GALAVISION
 http://tecnotv.club/pzz/smartv.php?c=87_&f=.m3u8
@@ -163,12 +159,12 @@ http://tecnotv.club/pzz/smartv.php?c=140_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1483_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_yws0mebm.png" group-title="TV PREMIUM",Entertaiment
 http://tecnotv.club/pzz/smartv.php?c=1524_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Lista 16",STAR LATINO
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Sport",STAR LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox
-#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",STAR LIFE LATINO
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Sport",STAR LIFE LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxlife
-#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TV PREMIUM",FX
-http://tecnotv.club/pzz/smartv.php?c=142_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="Lista 16",FX
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fx
 #EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TV PREMIUM",Investigation Discovery
 http://tecnotv.club/pzz/smartv.php?c=1512_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_qppv6t5m.png" group-title="TV PREMIUM",SONY Channel
@@ -209,12 +205,18 @@ http://tecnotv.club/pzz/smartv.php?c=1543_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=180_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_nqpp4m2g.png" group-title="TV PREMIUM",STUDIO Universal *
 http://tecnotv.club/pzz/smartv.php?c=1720_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TV PREMIUM",SYFY
-http://tecnotv.club/pzz/smartv.php?c=1547_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_swt3x169.png" group-title="TV PREMIUM",TCM *
-http://tecnotv.club/pzz/smartv.php?c=1724_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TNT
-http://tecnotv.club/pzz/smartv.php?c=1472_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=syfy
+#EXTINF:-1 tvg-logo="/logos/tntlatino.png" group-title="TV PREMIUM",TNT LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=tnt
+#EXTINF:-1 tvg-logo="/logos/tntseries.png" group-title="TV PREMIUM",TNT SERIES
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=tntseries
+#EXTINF:-1 tvg-logo="/logos/axnlatino.png" group-title="TV PREMIUM",AXN LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=axn
+#EXTINF:-1 tvg-logo="/logos/amclatino.png" group-title="TV PREMIUM",AMC LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=amc
+#EXTINF:-1 tvg-logo="/logos/tcmlatino.png" group-title="TV PREMIUM",TCM LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=tcm
 #EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb_k4lqrjjv.png" group-title="TV PREMIUM",ANIMAL Planet
 http://tecnotv.club/pzz/smartv.php?c=1513_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_qyk5mk2l.png" group-title="TV PREMIUM",DISCOVERY Channel
@@ -231,7 +233,7 @@ http://tecnotv.club/pzz/smartv.php?c=1528_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=201_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_tdao937c.png" group-title="TV PREMIUM",Histrory 2
 http://tecnotv.club/pzz/smartv.php?c=1531_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_isd7oqur.png" group-title="TV PREMIUM",Home &amp; Health
+#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_isd7oqur.png" group-title="TV PREMIUM",Home and Health
 http://tecnotv.club/pzz/smartv.php?c=199_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_i97f2lmp.png" group-title="TV PREMIUM",HOLA TV
 http://tecnotv.club/pzz/smartv.php?c=1564_&f=.m3u8
@@ -320,7 +322,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nopzzkie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
-http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/52
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23900
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png" tvg-url="" group-title="Ocio",24/7 Batman 1966 Retro
 http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/AERFVASERVAEASFGVAzsdfERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVGASFGVAERGAERVG/14
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
@@ -338,7 +340,9 @@ http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://rlv.zcache.ca/incredible_hulk_logo_classic_round_sticker-rb65b305765fb434e84e36036a1e9c19f_0ugmm_8byvr_540.jpg" tvg-url="" group-title="Ocio",24/7 X-Men Anime
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 SPIDER-MAN
-http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/64061
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 El principe del Rap
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23825
 
 #EXTINF:0 group-title="peliculas" tvg-logo="https://img.repelis.id/cover/los-ultimos-caballeros.jpg", Los ultimos Caballeros | REGIOFLIX
 https://storage.googleapis.com/flash-aviary-306017/AWXSL344C_JN/st23_los-ultimos-caballeros_1.mp4
