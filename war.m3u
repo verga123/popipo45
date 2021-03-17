@@ -119,10 +119,10 @@ http://tecnotv.club/pzz/smartv.php?c=234_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1498_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",STAR Family
 http://tecnotv.club/pzz/smartv.php?c=235_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-movies_thumb_a6r26oe0.png" group-title="TV PREMIUM",STAR Hits
-http://tecnotv.club/pzz/smartv.php?c=167_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-series_thumb_k2zapkcq.png" group-title="TV PREMIUM",STAR Series
-http://tecnotv.club/pzz/smartv.php?c=1495_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxclassics
+#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR PREMIUM SERIES
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxseries
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN *
 http://tecnotv.club/pzz/smartv.php?c=166_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-edge_thumb_jlywismv.png" group-title="TV PREMIUM",Golden EDGE
@@ -163,10 +163,10 @@ http://tecnotv.club/pzz/smartv.php?c=140_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1483_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_yws0mebm.png" group-title="TV PREMIUM",Entertaiment
 http://tecnotv.club/pzz/smartv.php?c=1524_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_thumb_2k9ozo3b.png" group-title="TV PREMIUM",STAR Channel
-http://tecnotv.club/pzz/smartv.php?c=1474_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxlife_thumb_vyskn253.png" group-title="TV PREMIUM",STAR LIFE
-http://tecnotv.club/pzz/smartv.php?c=1559_&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Lista 16",STAR LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",STAR LIFE LATINO
+http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxlife
 #EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TV PREMIUM",FX
 http://tecnotv.club/pzz/smartv.php?c=142_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TV PREMIUM",Investigation Discovery
