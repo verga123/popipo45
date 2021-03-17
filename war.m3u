@@ -119,9 +119,9 @@ http://tecnotv.club/pzz/smartv.php?c=234_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1498_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",STAR Family
 http://tecnotv.club/pzz/smartv.php?c=235_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="TV PREMIUM",FOX PREMIUM CLASICS
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxclassics
-#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR PREMIUM SERIES
+#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="TV PREMIUM",STAR PREMIUM SERIES
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxseries
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN *
 http://tecnotv.club/pzz/smartv.php?c=166_&f=.m3u8
