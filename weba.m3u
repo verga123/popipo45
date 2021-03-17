@@ -6,7 +6,7 @@ http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/519
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="CHILE", Mega
 http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/17304
 #EXTINF:-1 tvg-id="45122" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV
-http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/61826
+http://tv.pluscrt.com:25461/josefierro/Ny9OuwWabi/1013
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13
 http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/27155
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" tvg-url="" group-title="CHILE",Canal 21 (720p)
@@ -119,9 +119,9 @@ http://tecnotv.club/pzz/smartv.php?c=234_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1498_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",STAR Family
 http://tecnotv.club/pzz/smartv.php?c=235_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="Lista 16",FOX PREMIUM CLASICS
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png" group-title="TV PREMIUM",FOX PREMIUM CLASICS
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxclassics
-#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR PREMIUM SERIES
+#EXTINF:-1 tvg-logo="/logos/foxseries.png" group-title="TV PREMIUM",STAR PREMIUM SERIES
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxseries
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN *
 http://tecnotv.club/pzz/smartv.php?c=166_&f=.m3u8
@@ -332,7 +332,11 @@ http://5.9.30.198:2086/ASFGVAERGAERVZDFVAZSDFVGASFGVAERGAERVGASFGVAERGAERVGASFGV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://rlv.zcache.ca/incredible_hulk_logo_classic_round_sticker-rb65b305765fb434e84e36036a1e9c19f_0ugmm_8byvr_540.jpg" tvg-url="" group-title="Ocio",24/7 X-Men Anime
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 SPIDER-MAN
-http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/64061
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Principe del Rap
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23825
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Drake and Josh
+http://tv.pluscrt.com:25461/josefierro/Ny9OuwWabi/37768
 
 #EXTINF:0 group-title="peliculas" tvg-logo="https://img.repelis.id/cover/los-ultimos-caballeros.jpg", Los ultimos Caballeros | REGIOFLIX
 https://storage.googleapis.com/flash-aviary-306017/AWXSL344C_JN/st23_los-ultimos-caballeros_1.mp4
