@@ -127,21 +127,21 @@ http://tecnotv.club/pzz/smartv.php?c=169_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1704_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-premier-hd_thumb_2re326h5.png" group-title="TV PREMIUM",Golden PREMIER *
 http://tecnotv.club/pzz/smartv.php?c=1704_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="Sport",HBO LATINO
+#EXTINF:-1 tvg-logo="/logos/hbo.png" group-title="TV PREMIUM",HBO LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbo
-#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="Sport",HBO 2
+#EXTINF:-1 tvg-logo="/logos/hbo2.png" group-title="TV PREMIUM",HBO 2
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbo2
-#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="Sport",HBO PLUS
+#EXTINF:-1 tvg-logo="/logos/hboplus.png" group-title="TV PREMIUM",HBO PLUS
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hboplus
-#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="Sport",HBO FAMILY
+#EXTINF:-1 tvg-logo="/logos/hbofamily.png" group-title="TV PREMIUM",HBO FAMILY
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbofamily
-#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="Sport",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="/logos/hbosignature.png" group-title="TV PREMIUM",HBO SIGNATURE
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=hbosignature
-#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="Sport",HBO XTREME
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png" group-title="TV PREMIUM",HBO XTREME
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxprime
-#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="Sport",HBO MUNDI
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png" group-title="TV PREMIUM",HBO MUNDI
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxlatino
-#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="Sport",HBO POP
+#EXTINF:-1 tvg-logo="/logos/hbopop.png" group-title="TV PREMIUM",HBO POP
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=maxup
 #EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_dvotcczj.png" group-title="TV PREMIUM",GALAVISION
 http://tecnotv.club/pzz/smartv.php?c=87_&f=.m3u8
@@ -159,9 +159,9 @@ http://tecnotv.club/pzz/smartv.php?c=140_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=1483_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_yws0mebm.png" group-title="TV PREMIUM",Entertaiment
 http://tecnotv.club/pzz/smartv.php?c=1524_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="Sport",STAR LATINO
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png" group-title="TV PREMIUM",STAR LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox
-#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Sport",STAR LIFE LATINO
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="TV PREMIUM",STAR LIFE LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxlife
 #EXTINF:-1 tvg-logo="/logos/fx.png" group-title="TV PREMIUM",FX
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fx
