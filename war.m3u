@@ -163,7 +163,7 @@ http://tecnotv.club/pzz/smartv.php?c=1524_&f=.m3u8
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fox
 #EXTINF:-1 tvg-logo="/logos/foxlifelatino.png" group-title="Sport",STAR LIFE LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=foxlife
-#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="Lista 16",FX
+#EXTINF:-1 tvg-logo="/logos/fx.png" group-title="TV PREMIUM",FX
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=fx
 #EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TV PREMIUM",Investigation Discovery
 http://tecnotv.club/pzz/smartv.php?c=1512_&f=.m3u8
@@ -205,7 +205,7 @@ http://tecnotv.club/pzz/smartv.php?c=1543_&f=.m3u8
 http://tecnotv.club/pzz/smartv.php?c=180_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_nqpp4m2g.png" group-title="TV PREMIUM",STUDIO Universal *
 http://tecnotv.club/pzz/smartv.php?c=1720_&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
+#EXTINF:-1 tvg-logo="/logos/syfy.png" group-title="TV PREMIUM",SYFY LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=syfy
 #EXTINF:-1 tvg-logo="/logos/tntlatino.png" group-title="TV PREMIUM",TNT LATINO
 http://tecnotv.club/pzz/smtv2.php?cat=latinos&ch=tnt
