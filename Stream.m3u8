@@ -1,2 +1,3 @@
 #EXTM3U
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=224611,RESOLUTION=720x540,CODECS="avc1.42e00a,mp4a.40.2",URI="https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20001%20en%20Espa%C3%B1ol%20latino.ia.mp4"
+#EXT-X-MEDIA-INF:PROGRAM-ID=1,BANDWIDTH=7680000,AVERAGE-BANDWIDTH=7560423
+https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20001%20en%20Espa%C3%B1ol%20latino.ia.mp4?output=m3u8
