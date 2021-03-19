@@ -17,7 +17,7 @@ http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/518
 http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/15928
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sport",NBA Channel
-http://185.71.64.167:80/u4Bowl1uX7/qRTzfwxCoj/80366?sd=10&rebase=on
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="Sport",All Elite Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=9df1402e-7af4-11eb-8477-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 logo="http://3.bp.blogspot.com/-UR3StGPTL3A/Xjjowdc3yyI/AAAAAAABwpc/uzDmweByniYjkGM6Kgfo4Z68zRny-qlsgCK4BGAYYCw/s1600/EL_BAZAR_DEL_ESPECTACULO-04_02_2020_00_44_07-0001-703628.jpeg" group-title="Sport",Pluto Peleas
@@ -162,7 +162,7 @@ http://tecnotv.club/zzz/smtv1.php?c=2026
 #EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/dmrC7Xb/FOX-life.png" group-title="TV PREMIUM",FOX LIFE (MOVIL)
 http://tecnotv.club/zzz/smtv1.php?c=2042
 #EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TV PREMIUM",FX
-http://tecnotv.club/zzz/smartv.php?c=142_&f=.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_4vlh8w8h.png" group-title="TV PREMIUM",Investigation Discovery
 http://tecnotv.club/zzz/smartv.php?c=1512_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_qppv6t5m.png" group-title="TV PREMIUM",SONY Channel
@@ -320,7 +320,7 @@ http://5.9.30.198:2086/zdfgbazdsfgbasdfbzdfgbazdsfgbasdfbzdfgbazdsfgbasdfbzdfgba
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.ver-television.online/images/tooncast_.png" tvg-url="" group-title="Ocio",Tooncast
-https://raw.githubusercontent.com/verga123/popipo45/master/toon.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Yu-Gi-Oh%21_%28Logo%29.jpg" tvg-url="" group-title="Ocio",YuGiOh
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.pikpng.com/pngl/m/333-3330455_anlisis-de-la-beta-del-saint-seiya-on.png" tvg-url="" group-title="Ocio",24/7 CABALLEROS DEL ZODIACO
