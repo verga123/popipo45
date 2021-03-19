@@ -14,7 +14,7 @@ https://tls.cdnz.cl/canal21tv/live/playlist.m3u8&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",La Red
 http://2owv1cltfjns3th0beu7mx.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79924&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",ETC TV
-http://tv.iptv5latino.cl:8000/jesusfull/jesusfull12345/15928
+https://raw.githubusercontent.com/verga123/popipo45/master/toon.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sport",NBA Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
