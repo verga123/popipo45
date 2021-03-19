@@ -3,5 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:1167
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:0
-#EXTINF:-1
+#EXTINF:-1,
 http://tv.iptv5latino.cl:8000/live/manuel123/manuel321/15928.ts
