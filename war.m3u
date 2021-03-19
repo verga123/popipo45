@@ -28,6 +28,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",WWE Network
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/448.ts
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling
+https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",FOX Sports Chile
 http://2owv1cltfjns3th0beu7mx.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79924&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/532px-UFC_logo.svg.png" tvg-url="" group-title="Sport",UFC Fight Pass HD
