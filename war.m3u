@@ -286,6 +286,10 @@ http://redcoliptv.com:8090/Cristobal20/Cristobal20/2543?format=.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",On Radio KPOP Chile
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Virgin Music
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Vevo Music
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 The Big Bang Theory
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/23838
