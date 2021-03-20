@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE",TVN
-http://d56u0nbfi9psgw7wkpymxr.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79921&t=live&f=ts
+http://jtmpf17hooi5lue2pbji4g.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79921&t=live&f=ts
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="CHILE", Mega
-http://uk6tdcw4jh8elqlsbis3dz.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79925&t=live&f=ts
+http://t4poczlqigo1kn9ub7hkvi.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79925&t=live&f=ts
 #EXTINF:-1 tvg-id="45122" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV
-http://mloc9jengrpyh21hvatpju.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79920&t=live&f=ts
+http://vkmusdtmtebegf7zcxpaow.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79920&t=live&f=ts
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13
-http://vrj1gnkwt0qe6mmycor74u.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79923&t=live&f=ts
+http://ifkv6slmmc70nda4ti8phx.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79923&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" tvg-url="" group-title="CHILE",Canal 21 (720p)
 https://tls.cdnz.cl/canal21tv/live/playlist.m3u8&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",La Red
-http://2owv1cltfjns3th0beu7mx.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79924&t=live&f=ts
+http://dgrvvcijtpimuzjapxqw0t.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79924&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",ETC TV
 http://tv.iptv5latino.cl:8000/live/manuel123/manuel321/15928.ts?output=.m3u8
 
@@ -31,7 +31,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/448.ts
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",FOX Sports Chile
-http://2owv1cltfjns3th0beu7mx.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79924&t=live&f=ts
+http://uwvatx1cud0eixnok5ftyw.3mu.caja.live/live/dash.php?z=111&u=TSTaVbkHRfUhJ&s=6226515180&id=79930&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/532px-UFC_logo.svg.png" tvg-url="" group-title="Sport",UFC Fight Pass HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-url="" group-title="Sport",TNT Sports
