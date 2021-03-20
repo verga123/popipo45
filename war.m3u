@@ -12,7 +12,7 @@ http://rv.therevenge.co:80/307211110230/307211110230/87138?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" tvg-url="" group-title="CHILE",Canal 21 (720p)
 https://tls.cdnz.cl/canal21tv/live/playlist.m3u8&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",La Red
-http://rv.therevenge.co:80/307211110230/307211110230/87137?sd=10&dw=0&rebase=on
+http://37723998.to:2052/dale1/1234/24799?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",ETC TV
 http://tv.iptv5latino.cl:8000/live/manuel123/manuel321/15928.ts?sd=10&dw=0&rebase=on
 
@@ -27,7 +27,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-url="" group-title="Sport",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",WWE Network
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/448.ts
+http://37723998.to:2052/dale1/1234/172181
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",FOX Sports Chile
@@ -342,7 +342,7 @@ https://archive.org/embed/slam-dunk-en-espanol-latino?autoplay=yes&f=.m3u8
 
 
 #EXTINF:0 group-title="peliculas" tvg-logo="https://img.repelis.id/cover/los-ultimos-caballeros.jpg", Zack Snyder Justice League | REGIOFLIX
-https://908459972.tapecontent.net/radosgw/RpWgQZ72QmfLyB/FaB1531-uCymmNR_zMs_Th9SDtctyvLx-Up3sCImSq1J1RgXm4H57yN9f4h13VljapdQtG3IYH-RfSTx6OnOXpbDmcEqWz2YDKUcW7ARL4ur9bQHqk5T8XPkOC4k9i7CtnUjUI29IIe6wP64JC2AKwrKU9EO_FNqn76ESQ1A6iYPCQbp0NMXi2WykFVBwMsbdUDWr3HSr09FzKhhm5AC9h1M4s2flIiksn72dStlNnUAkhbv9duKXCThFZqRL1D7ByKI4yllfes9tLLk69ehKYy0coc5e3NDquwZMA/6qzw0kEKrbx.mp4?stream=1
+https://fvis0foohy.mscontent.net/c/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjI4MDY6MTAwMDo4MDA1OjYxODQ6NTFlYToxNzcwOjRhYjphY2YzIiwibGg0N3NpY2k1NXkwIiwibiIsMSwiOTFmNjIwYzI0MWI2MDVmMGVlZDAyYzMzZjJjNmVhZWUiXSwiZXhwIjoxNjE2MjUxODA1fQ.c_1P86qdeXTESLHlw9-3y0zO-qwUQPKMcET5FE0iVTA.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes | REGIOFLIX
 http://ipeteve.com/regioflix171121/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL | REGIOFLIX
