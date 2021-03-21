@@ -36,6 +36,10 @@ http://rv.therevenge.co:80/307211110230/307211110230/87132
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-url="" group-title="Sport",TNT Sports
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/1844
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/9CIdMAr.png" group-title="Sport",UK: WWE NETWORK
+http://tecnotv.club/pop/premiumtv.php?c=1491
+#EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.imgur.com/EXoU9lM.png" group-title="Sport",CL: CDF PREMIUM SD
+http://tecnotv.club/pop/premiumtv.php?c=1322
 #EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="Sport",ADRENALINA
 http://tecnotv.club/zzz/smartv.php?c=265_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="Sport",AyM Sports
