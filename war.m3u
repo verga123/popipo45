@@ -293,12 +293,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Metal TV
 http://v1.catcast.tv/content/33816/index.m3u8
 
+#EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 31 MINUTOS
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/30223
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 The Big Bang Theory 1-6
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/23897
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 The Big Bang Theory 7-12
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/23896
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",Futurama 24/7
-https://stream-cdn.vaughnsoft.net/play/live_futurama_mania_.flv
+http://5.9.30.198:2086/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/35
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon
 http://38.18.238.42:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon Classic
@@ -318,7 +320,7 @@ https://inliveserver.com:1936/m3ulive/m3ulive/chunklist_w877266350.m3u8
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png" group-title="Ocio", Cartoon Netwotk
 http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/0f/3f/f2/0f3ff2157f4e941dab3d0f782e3d0946.jpg" tvg-url="" group-title="Ocio",Dragon Ball 24/7
-http://xdgo.live:8080/JJaco503/97tyf7vbBH/23842
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/23822
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",Los Simpsons 24/7
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
@@ -344,7 +346,7 @@ http://5.9.30.198:2086/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://rlv.zcache.ca/incredible_hulk_logo_classic_round_sticker-rb65b305765fb434e84e36036a1e9c19f_0ugmm_8byvr_540.jpg" tvg-url="" group-title="Ocio",24/7 X-Men Anime
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 SPIDER-MAN
-http://xdgo.live:8080/JJaco503/97tyf7vbBH/23895
+http://5.9.30.198:2086/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/69
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Principe del Rap
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/23825
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Slam Dunk
