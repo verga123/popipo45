@@ -34,8 +34,32 @@ https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u
 http://rv.therevenge.co:80/307211110230/307211110230/87132
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/532px-UFC_logo.svg.png" tvg-url="" group-title="Sport",UFC Fight Pass HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-url="" group-title="Sport",TNT Sports
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1843
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HD
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/1844
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HD | op2" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1845
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *FHD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1846
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *FHD | op2" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *FHD | op2
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1847
+#EXTINF:-1 tvg-id="CDF ESTADIO *FHD" tvg-name="TNT SPORTS 2 CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 2 CHILE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41171
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS 2 CHILE *HD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 2 CHILE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1842
+#EXTINF:-1 tvg-id="TNT SPORTS 2 CHILE *HD" tvg-name="TNT SPORTS 2 CHILE *FHD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 2 CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41589
+#EXTINF:-1 tvg-id="CDF BASICO *HQ" tvg-name="TNT SPORTS 3 CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 3 CHILE *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1841
+#EXTINF:-1 tvg-id="TNT SPORTS 3 CHILE *FHD" tvg-name="TNT SPORTS 3 CHILE *HD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 3 CHILE *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/41170
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 CHILE *FHD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 3 CHILE *FHD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/42335
+#EXTINF:-1 tvg-id="CDF ESTADIO *HD" tvg-name="ESTADIO TNT SPORTS *HQ" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="Sport",ESTADIO TNT SPORTS *HQ
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40737
+#EXTINF:-1 tvg-id="CDF ESTADIO *HD" tvg-name="ESTADIO TNT SPORTS *HD" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="Sport",ESTADIO TNT SPORTS *HD
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/40736
 #EXTINF:-1 group-title="Sport" logo="https://www.televall.online/gallery/adrenalina_thumb_3vqz4pxw.png" group-title="Sport",ADRENALINA
 http://38.18.237.42:2095/UFCNET/transco2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 group-title="Sport" logo="https://www.televall.online/gallery/bein-n-sports_thumb_mx73ea4h.png" group-title="Sport",BEIN SPORTS Ñ
