@@ -37,21 +37,21 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" tvg-url="" group-title="Sport",TNT Sports
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/1844
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcB3wRD.jpg" group-title="Sport",DAZN 1
-http://tecnotv.club/non/premiumtv.php?c=999
+http://tecnotv.club/non/premiumtv.php?c=999&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IloC1Yl.jpg" group-title="Sport",DAZN 2
-http://tecnotv.club/non/premiumtv.php?c=1000
+http://tecnotv.club/non/premiumtv.php?c=1000&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3RqhVYJ/e25b5729ca0bcf5915ca4db730fd2a86.png" group-title="Sport",SKY SPORTS LATINO SD
-http://tecnotv.club/non/premiumtv.php?c=1212
+http://tecnotv.club/non/premiumtv.php?c=1212&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HsN76lm.png" group-title="Sport",BEIN SPORTS N
-http://tecnotv.club/non/premiumtv.php?c=1215
+http://tecnotv.club/non/premiumtv.php?c=1215&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9vJroZ.png" group-title="Sport",FOX SPORTS 1 
-http://tecnotv.club/non/premiumtv.php?c=1218
+http://tecnotv.club/non/premiumtv.php?c=1218&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPmBKPz/da9d162da98eda4d0f65a0a6e3e175ad.png" group-title="Sport",FOX SPORTS 2 
-http://tecnotv.club/non/premiumtv.php?c=1221
+http://tecnotv.club/non/premiumtv.php?c=1221&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FxXKs33/ec6cbc8905731ab3d7ee54cec6d2deb6.png" group-title="Sport",FOX SPORTS 3 
-http://tecnotv.club/non/premiumtv.php?c=1224
+http://tecnotv.club/non/premiumtv.php?c=1224&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4316g1/ccb558720a3bb4186d5aa5733c8d7927.png" group-title="Sport",ESPN 1  SD
-http://tecnotv.club/non/premiumtv.php?c=1227
+http://tecnotv.club/non/premiumtv.php?c=1227&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hs7JGFS/fd5c5cc108e6bff6428b313dcb21fbfe.png" group-title="Sport",ESPN 2  SD
 http://tecnotv.club/non/premiumtv.php?c=1231
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85MDWPd/4ccf65c942a602a6610af89347cf39a3.png" group-title="Sport",ESPN 3 
