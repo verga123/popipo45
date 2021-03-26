@@ -8,15 +8,15 @@ http://xdgo.live:8080/JJaco503/97tyf7vbBH/1745?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg" tvg-url="" group-title="CHILE",ETC TV
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/1765?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",La Red
-http://xdgo.live:8080/JJaco503/97tyf7vbBH/1748?sd=10&dw=0&rebase=on
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/1749?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="CHILE", Mega
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/1751?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE",TVN
-http://xdgo.live:8080/JJaco503/97tyf7vbBH/1757?sd=10&dw=0&rebase=on
+http://xdgo.live:8080/JJaco503/97tyf7vbBH/2393?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 logo="https://www.marketingregistrado.com/img/noticias/nba-new-logo.jpg" group-title="Sport",NBA Channel
+#EXTINF:-1 logo="https://i.imgur.com/QACuFZN.png" group-title="Sport",NBA Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="Sport",All Elite Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=9df1402e-7af4-11eb-8477-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -30,8 +30,6 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/25807
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",FOX Sports Chile
-http://rv.therevenge.co:80/307211110230/307211110230/87132
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/532px-UFC_logo.svg.png" tvg-url="" group-title="Sport",UFC Fight Pass HD
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/5429
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HQ
@@ -534,9 +532,9 @@ http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FraMFYiu1-8/XpZTtYxObjI/AAAAAAAAKi4/jYGdcgUHyVcxlbiaaAcOviZaegU_9IbYgCLcBGAsYHQ/s1600/HBO%2BXTREME.png" group-title="TV PREMIUM" ,HBO XTREME
 http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/3zq7s8N/3379664c6efe7a364f61df374af5368c.png" group-title="TV PREMIUM",CINE LATINO (MOVIL)
-http://tecnotv.club/non/smtv1.php?c=2026
+http://tecnotv.club/cck/smtv1.php?c=2026
 #EXTINF:-1 user-agent="ExoPlayerLib/2.8.4" tvg-logo="https://i.ibb.co/dmrC7Xb/FOX-life.png" group-title="TV PREMIUM",FOX LIFE (MOVIL)
-http://tecnotv.club/non/smtv1.php?c=2042
+http://tecnotv.club/cck/smtv1.php?c=2042
 #EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_ar7hgf44.png" group-title="TV PREMIUM",FX
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/868
 #EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TV PREMIUM",SYFY
@@ -574,7 +572,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u
 http://v1.catcast.tv/content/33816/index.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1616748524/ei/jEtdYLu1FITAwwSoopiYBg/ip/207.248.193.175/id/Hwb2LypG-78.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/r7---sn-25jp4pjv-jj2s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10340/mh/2k/mm/44/mn/sn-25jp4pjv-jj2s/ms/lva/mv/m/mvi/7/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1616726662/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJ3QlVgtuaCBFreSvtxHSPWz677S2iTec3jV-xRn7BoHAiEAm-6wXAjW78eYwu3ij40Q1Mv-7juZfAonk3W02b7QvtU%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgZK5SD7ec0eqAzDo76j5uqB70rG3TcuTK-IyFfgVJPhUCIHDhXpu4JFJ2vCnbEuTw-dXobXQ__Y0B6opfxnN2oVVJ/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1616791754/ei/avRdYN7IGP6CobIPv6iSgAY/ip/207.248.193.175/id/Hwb2LypG-78.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/r7---sn-25jp4pjv-jj2s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13170/mh/2k/mm/44/mn/sn-25jp4pjv-jj2s/ms/lva/mv/m/mvi/7/pcm2cms/yes/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1616769864/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAP5x9vIeWhihfnaMsF5kwKAmrMM0o0zEyLUyK3iAlK22AiABiUphI_-anI1H1SNjR_Vk5lHpGDAI4yG6re5UuUG6gA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRAIgDLsWvXvVa7CaOsiNbml1enpYtWmNvwOWjAgpLjJYKKQCIGRuXcS-wy94LYXgtl4lCdj_IUt25C-vh1Ne7iRuCIJt/playlist/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 31 MINUTOS
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/30223
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 The Big Bang Theory 1-6
@@ -607,7 +605,7 @@ http://xdgo.live:8080/JJaco503/97tyf7vbBH/23822
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nononkie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.cckonkie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
 http://zutv.online:2086/JsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/52
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png" tvg-url="" group-title="Ocio",24/7 Batman 1966 Retro
 http://zutv.online:2086/JsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjsJsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/14
@@ -918,7 +916,7 @@ https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO
 https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nononkie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.cckonkie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990
 https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
@@ -926,7 +924,7 @@ https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion  
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://turquesanon.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos  
+#EXTINF:0 group-title="peliculas" tvg-logo="http://turquesacck.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos  
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO  
 https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
