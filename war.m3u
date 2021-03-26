@@ -573,7 +573,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Metal TV
 http://v1.catcast.tv/content/33816/index.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 Resident Evil Channel
+#EXTINF:-1 logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1616748524/ei/jEtdYLu1FITAwwSoopiYBg/ip/207.248.193.175/id/Hwb2LypG-78.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/r7---sn-25jp4pjv-jj2s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10340/mh/2k/mm/44/mn/sn-25jp4pjv-jj2s/ms/lva/mv/m/mvi/7/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1616726662/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJ3QlVgtuaCBFreSvtxHSPWz677S2iTec3jV-xRn7BoHAiEAm-6wXAjW78eYwu3ij40Q1Mv-7juZfAonk3W02b7QvtU%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgZK5SD7ec0eqAzDo76j5uqB70rG3TcuTK-IyFfgVJPhUCIHDhXpu4JFJ2vCnbEuTw-dXobXQ__Y0B6opfxnN2oVVJ/playlist/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 31 MINUTOS
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/30223
