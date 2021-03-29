@@ -547,10 +547,14 @@ http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/natgeo_thumb_y5snyhuu.png" group-title="TV PREMIUM",NATGEO
 http://38.18.238.42:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="TV PREMIUM", Space HQ
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/859
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,STARZ
 http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TV PREMIUM",SYFY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TCM
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/886
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TNT Latino
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/855
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TNT
