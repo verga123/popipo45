@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13
-http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1741?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="CHILE", 24 Horas Play 
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 Regional
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8#l
+#EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1741?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" tvg-url="" group-title="CHILE",Canal 21 (720p)
 https://tls.cdnz.cl/canal21tv/live/playlist.m3u8&f=.m3u8
 #EXTINF:-1 tvg-id="45122" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV
@@ -551,10 +551,14 @@ http://38.18.238.42:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@
 http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/syfy_thumb_7bblsmj2.png" group-title="TV PREMIUM",SYFY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TNT Latino
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/855
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnthd_thumb_6pyntdsy.png" group-title="TV PREMIUM",TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/22264
+#EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="TV PREMIUM", WARNER CHANNEL HQ
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/852
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,WESTERN
 http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
 
@@ -608,12 +612,22 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23822
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 Futurama
 http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/35
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 Iron Man
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",24/7 Los Simpsons
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.cckonkie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
 http://zutv.online:2086/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrffdgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/asdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgvasdvasrfgv/52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.cckonkie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Mi bella Genio
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Naruto
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23827
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Naruto Shippuden
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23937
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Pantera Rosa
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23871
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Principe del Rap
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23825
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" tvg-url="" group-title="Ocio",24/7 RANMA ½
