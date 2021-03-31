@@ -667,6 +667,8 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" tvg-url="" group-title="Ocio",Disney XD
 http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/289
+#EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Ocio", Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon
 http://38.18.238.42:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon Classic
@@ -1067,5 +1069,5 @@ http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksn
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/284
 #EXTINF:-1 tvg-id="" tvg-name="XXX_HOTWIFE PREMIUM" tvg-logo="https://i.imgur.com/LM6UmDa.jpg" group-title="XXX",XXX_HOTWIFE PREMIUM
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/307
-#EXTINF:-1 tvg-id="" tvg-name="XXX_HOTWIFE PREMIUM" tvg-logo="https://i.imgur.com/LM6UmDa.jpg" group-title="XXX",Reality Kings TV
+#EXTINF:-1 tvg-id="" tvg-name="XXX_HOTWIFE PREMIUM" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/Reality-Kings-TV.png" group-title="XXX",Reality Kings TV
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/750
