@@ -15,13 +15,13 @@ https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistCHILEIPTVCL
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1765?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",La Red
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1749?sd=10&dw=0&rebase=on
-#EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="CHILE", Mega
+#EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="CHILE", Mega
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1751?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15701138231.jpg" group-title="CHILE", Ñuble Tv 
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15220956361.png" group-title="CHILE", Senado TV
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="CHILE",TVN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TVN_Chile_2016.svg/revision/latest/scale-to-width-down/340?cb=20200530033330&path-prefix=es" group-title="CHILE",TVN
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/2393?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -146,7 +146,7 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1861
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1797
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="ESPN MX *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Sport",ESPN MX *HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1799
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MX *FHD" tvg-logo="" group-title="Sport",ESPN MX *FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MX *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Sport",ESPN MX *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/30428
 #EXTINF:-1 tvg-id="ESPN SUR *FHD" tvg-name="ESPN UR *HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Sport",ESPN UR *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/41601
@@ -178,7 +178,7 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1856
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1859
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="ESPN 2 SUR *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Sport",ESPN 2 SUR *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1862
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE *HD" tvg-logo="" group-title="Sport",ESPN 2 NORTE *HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Sport",ESPN 2 NORTE *HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/30426
 #EXTINF:-1 tvg-id="ESPN 2 SUR *HQ" tvg-name="ESPN 2 UR *HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" group-title="Sport",ESPN 2 UR *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/41602
@@ -232,11 +232,11 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/30314
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/40152
 #EXTINF:-1 tvg-id="FOX SPORTS 1 CL *FHD" tvg-name="FOX SPORTS 1 CL *FHD | op2" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 1 CL *FHD | op2
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/2354
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 AR *LQ" tvg-logo="" group-title="Sport",FOX SPORTS 1 AR *LQ
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 AR *LQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 1 AR *LQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/30427
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR *HQ" tvg-name="FOX SPORTS 1 AR *HQ" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 1 AR *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1777
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 AR *HD" tvg-logo="" group-title="Sport",FOX SPORTS 1 AR *HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 AR *HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 1 AR *HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/30424
 #EXTINF:-1 tvg-id="FOX SPORTS 1 AR *FHD" tvg-name="FOX SPORTS 1 AR *FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 1 AR *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1779
@@ -324,11 +324,11 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/2359
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29818
 #EXTINF:-1 tvg-id="TD+ 2 *HD" tvg-name="TD+ 2 *FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png" group-title="Sport",TD+ 2 *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29817
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD" tvg-logo="https://www.nacion.com/resizer/d_Jdge_gFdDd8K295xjWh1edNXg=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/BZAFW4DBWRBGJPAYNKXOVSSDHM.png" group-title="Sport",FUTV *HD
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD" tvg-logo="https://i.imgur.com/G2bhlXv.jpg" group-title="Sport",FUTV *HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23997
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD | op2" tvg-logo="https://www.nacion.com/resizer/d_Jdge_gFdDd8K295xjWh1edNXg=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/BZAFW4DBWRBGJPAYNKXOVSSDHM.png" group-title="Sport",FUTV *HD | op2
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD | op2" tvg-logo="https://i.imgur.com/G2bhlXv.jpg" group-title="Sport",FUTV *HD | op2
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/24260
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD | op3" tvg-logo="https://www.nacion.com/resizer/d_Jdge_gFdDd8K295xjWh1edNXg=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/BZAFW4DBWRBGJPAYNKXOVSSDHM.png" group-title="Sport",FUTV *HD | op3
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD | op3" tvg-logo="https://i.imgur.com/G2bhlXv.jpg" group-title="Sport",FUTV *HD | op3
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29266
 #EXTINF:-1 tvg-id="GOL PERU *HQ" tvg-name="GOL PERU *HQ" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="Sport",GOL PERU *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1835
@@ -358,7 +358,7 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1834
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1831
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling
 https://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="LA LIGA TV *FHD" tvg-name="LALIGA TV *FHD" tvg-logo="https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2019/08/laliga-h-1200x1200_2018.jpg?itok=tmme1ICf" group-title="Sport",LALIGA TV *FHD
+#EXTINF:-1 tvg-id="LA LIGA TV *FHD" tvg-name="LALIGA TV *FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg" group-title="Sport",LALIGA TV *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1830
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES *HQ" tvg-name="MOVISTAR DEPORTES *HQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jMgvlpQbDm4tXyq3AF2DoDC3NJGUrbuIwjCYvGGxl-SLD2pT&s" group-title="Sport",MOVISTAR DEPORTES *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1827
@@ -478,17 +478,17 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1812
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1810
 #EXTINF:-1 tvg-id="TyC SPORTS INTERNACIONAL *FHD" tvg-name="TyC SPORTS INTERNACIONAL *FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" group-title="Sport",TyC SPORTS INTERNACIONAL *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1864
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *HQ" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="Sport",VTV *HQ
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *HQ" tvg-logo="http://1.bp.blogspot.com/-NX51YMsp5f0/Vj493ud9c4I/AAAAAAAAAzo/jVuxrF-TeV0/s1600/vtv%2Buruguay.png" group-title="Sport",VTV *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1805
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *HQ | op2" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="Sport",VTV *HQ | op2
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *HQ | op2" tvg-logo="http://1.bp.blogspot.com/-NX51YMsp5f0/Vj493ud9c4I/AAAAAAAAAzo/jVuxrF-TeV0/s1600/vtv%2Buruguay.png" group-title="Sport",VTV *HQ | op2
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/17334
-#EXTINF:-1 tvg-id="VTV HQ" tvg-name="VTV *HQ | op3" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="Sport",VTV *HQ | op3
+#EXTINF:-1 tvg-id="VTV HQ" tvg-name="VTV *HQ | op3" tvg-logo="http://1.bp.blogspot.com/-NX51YMsp5f0/Vj493ud9c4I/AAAAAAAAAzo/jVuxrF-TeV0/s1600/vtv%2Buruguay.png" group-title="Sport",VTV *HQ | op3
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/41606
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *HD" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="Sport",VTV *HD
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *HD" tvg-logo="http://1.bp.blogspot.com/-NX51YMsp5f0/Vj493ud9c4I/AAAAAAAAAzo/jVuxrF-TeV0/s1600/vtv%2Buruguay.png" group-title="Sport",VTV *HD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1806
-#EXTINF:-1 tvg-id="VTV HQ | op2" tvg-name="VTV *HD | op2" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="Sport",VTV *HD | op2
+#EXTINF:-1 tvg-id="VTV HQ | op2" tvg-name="VTV *HD | op2" tvg-logo="http://1.bp.blogspot.com/-NX51YMsp5f0/Vj493ud9c4I/AAAAAAAAAzo/jVuxrF-TeV0/s1600/vtv%2Buruguay.png" group-title="Sport",VTV *HD | op2
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/41607
-#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *FHD" tvg-logo="https://pbs.twimg.com/profile_images/846441916917002240/AlVftQ9-_400x400.jpg" group-title="Sport",VTV *FHD
+#EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="VTV *FHD" tvg-logo="http://1.bp.blogspot.com/-NX51YMsp5f0/Vj493ud9c4I/AAAAAAAAAzo/jVuxrF-TeV0/s1600/vtv%2Buruguay.png" group-title="Sport",VTV *FHD
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/1807
 #EXTINF:-1 tvg-id="VTV + HD" tvg-name="VTV + *HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/768px-VTV%2BUruguay.svg.png" group-title="Sport",VTV + *HQ
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/17333
@@ -519,7 +519,7 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/22149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",WWE Network
 http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="TV PREMIUM",ACTION *HD | DUAL-AUDIO
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="TV PREMIUM",ACTION *HD | DUAL-AUDIO
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29534
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,BLACK
 http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
@@ -582,31 +582,28 @@ http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Concert Channel
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/218
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",KPOP TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2C9wY5R.jpg" group-title="Musica",KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Metal TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/12/1e/ef/121eef890f53671537f4cd45a3977538.jpg" group-title="Musica",Metal TV
 http://v1.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Musica",MTV (Latin America)
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29637
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" tvg-url="" group-title="Musica",MTV Hits
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",On Radio KPOP Chile
+#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="Musica",On Radio KPOP Chile
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Telehit
 http://38.18.238.42:2095/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Vevo Music
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music
 https://stitcher.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",VH1 Megahits
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",VH1 Shuffle
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/v/h/1/xvh1-shuffle-202921_SPA-29.jpg.pagespeed.ic.Mk7Bzciptp.jpg" group-title="Musica",VH1 Shuffle
 http://185.71.64.167:80/8005402280/1903686316/158628
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",Virgin Music
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/virgin-records-logo.png" group-title="Musica",Virgin Music
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/31_minutos_logo.svg/1200px-31_minutos_logo.svg.png" group-title="Ocio",24/7 31 MINUTOS
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/30223
@@ -634,7 +631,7 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23872
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",24/7 Los Simpsons
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.cckonkie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
 http://zutv.online:2086/kdkfkjhdjnsdjnskjdckjdfncnslksnclksnklckjdfnkjdfncnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklccnslksnclksnklckjdfncnslksnclksnklckjdfncnslksnclksnklc/kjdfncnslksnclksnklc/52
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.tumomopegas.com/files/pictures/logo_mi_bella_genio.png" tvg-url="" group-title="Ocio",24/7 Mi bella Genio
 http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/23898
@@ -662,7 +659,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u
 http://xdgo.live:8080/live/EnittFonFeb19/DHsPBV7mfE/23862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="https://lh3.googleusercontent.com/-HeQS_tKAA-8/XwePwID2waI/AAAAAAAA2no/QYCSrncPB0EhtQbqhEBEQyqPguxCHCFtQCK8BGAsYHg/s0/2020-07-09.png" group-title="Ocio", Anime Loving TV
+#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="http://azxtv.com/aztv.png" group-title="Ocio", Anime Loving TV
 http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="Ocio", Aniplus TV (Asia) HD
 http://210.210.155.35/dr9445/h/h02/index.m3u8
@@ -1000,51 +997,51 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
 http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Latina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Latina
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net MILF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net MILF
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net POV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net POV
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Russian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Russian
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Teen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Teen
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Woman
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1280px-Fake_Taxi_logo.svg.png" tvg-url="" group-title="XXX",XXX_FAKE TAXI FHD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/323
