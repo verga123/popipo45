@@ -519,14 +519,26 @@ http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/22149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",WWE Network
 http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,ACTION
-http://f4.tvxweb.net:8082/24315/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://foxmas.foxplay.com/img/logo_foxaction.png" group-title="TV PREMIUM",ACTION *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29534
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,BLACK
 http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,CINEMA
 http://f4.tvxweb.net:8082/24317/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,COMEDY
 http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HQ" tvg-name="DISCOVERY CHANNEL *HD | DUAL-AUDIO" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="TV PREMIUM",DISCOVERY CHANNEL *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29527
+#EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="DISCOVERY H&H *HD | DUAL-AUDIO" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="TV PREMIUM",DISCOVERY H&H *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29528
+#EXTINF:-1 tvg-id="DISCOVERY ID *FHD" tvg-name="DISCOVERY ID *HD | DUAL-AUDIO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_423.png?mlgvnOAdNFDNh2Tpmx_TyDDuwJ8gZ12q&itok=LtXFZiqH" group-title="TV PREMIUM",DISCOVERY ID *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29546
+#EXTINF:-1 tvg-id="DISCOVERY KIDS *FHD" tvg-name="DISCOVERY KIDS *HD | DUAL-AUDIO" tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="TV PREMIUM",DISCOVERY KIDS *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29549
+#EXTINF:-1 tvg-id="DISCOVERY TURBO *HD" tvg-name="DISCOVERY TURBO *HD | DUAL-AUDIO" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-turbo.jpg" group-title="TV PREMIUM",DISCOVERY TURBO *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29545
+#EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="DISCOVERY WORLD *HD | DUAL-AUDIO" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="TV PREMIUM",DISCOVERY WORLD *HD | DUAL-AUDIO
+http://xdgo.live:8080/EnittFonFeb19/DHsPBV7mfE/29550
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,DRAMA
 http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,EDGE
