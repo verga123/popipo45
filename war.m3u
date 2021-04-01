@@ -594,7 +594,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Telehit
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="Musica", Telehit
 http://38.18.238.42:2095/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music
 https://stitcher.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
