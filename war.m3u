@@ -25,8 +25,6 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/2393?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",Via X
-http://170.79.233.222:8500/play/a0d8/index.m3u8?output=.ts
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-zee-mundo-cine-en-vivo.jpg" group-title="CHILE",Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 
@@ -543,8 +541,6 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29549
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29545
 #EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="DISCOVERY WORLD *HD | DUAL-AUDIO" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="TV PREMIUM",DISCOVERY WORLD *HD | DUAL-AUDIO
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29550
-#EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="DISCOVERY WORLD *HD | DUAL-AUDIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png" group-title="TV PREMIUM",De Pelicula
-http://170.79.233.222:8500/play/a0k7/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,DRAMA
 http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,EDGE
@@ -553,10 +549,6 @@ http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/02/59/78/19/360_F_259781992_JMxw423W0wWfjgXKfc8ZPSCAVI4pbJjl.jpg" group-title="TV PREMIUM",FX
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/868
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cf/2qwqV7S.png" group-title="TV PREMIUM",Golden Edge
-http://170.79.233.222:8500/play/a0di/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="TV PREMIUM",Golden TV
-http://170.79.233.222:8500/play/a0hd/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bvb1TYrAtVg/XpPFQH-YyNI/AAAAAAAAKbY/4vjG8-7H5pc5Ixq-fKks1q1h5OPzqZCWgCLcBGAsYHQ/s1600/HBO%2BPLUS%2B%25281%2529.png" group-title="TV PREMIUM" ,HBO +
 http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IDfFkPvBqh8/XpPFRMOXusI/AAAAAAAAKbg/wvSN2Z-hThkZZWpufujB5LPl5Luir_dtwCLcBGAsYHQ/s1600/HBO.png" group-title="TV PREMIUM" ,HBO
@@ -567,12 +559,8 @@ http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FraMFYiu1-8/XpZTtYxObjI/AAAAAAAAKi4/jYGdcgUHyVcxlbiaaAcOviZaegU_9IbYgCLcBGAsYHQ/s1600/HBO%2BXTREME.png" group-title="TV PREMIUM" ,HBO XTREME
 http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="TV PREMIUM" ,Lifetime TV
-http://170.79.233.222:8500/play/a0jz/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="TV PREMIUM",NATGEO
 http://38.18.238.42:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="TV PREMIUM",NATGEO WILD
-http://170.79.233.222:8500/play/a0i3/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="TV PREMIUM", Space HQ
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/859
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,STARZ
@@ -1096,6 +1084,6 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/750
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322731248331227136/eT-c9NrV.jpg" group-title="XXX",Sexmex
 http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/371.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX",Sextreme
-http://170.79.233.222:8500/play/a0gq/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
+http://200.54.19.131:8500/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://www.televisiongratishd.com/img/venus.png" tvg-url="" group-title="XXX",Venus
 http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/356.ts
