@@ -636,7 +636,7 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",24/7 Los Simpsons
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
 http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/52.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.tumomopegas.com/files/pictures/logo_mi_bella_genio.png" tvg-url="" group-title="Ocio",24/7 Mi bella Genio
