@@ -25,8 +25,6 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/2393?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="CHILE",Via X
-http://170.79.233.222:8500/play/a0d8/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-zee-mundo-cine-en-vivo.jpg" group-title="CHILE",Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 
@@ -67,7 +65,7 @@ http://179.51.168.13:3000/play/ay34
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 2
 http://179.51.168.13:3000/play/a037
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 3
-http://200.73.117.225:8000/play/a0bc
+http://200.73.117.225:3000/play/a0bc
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 4
 http://170.79.233.222:8500/play/a0jx/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-id="CDO BASICO *HD" tvg-name="CDO BASICO *HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="Sport",CDO BASICO *HD
@@ -543,8 +541,6 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29549
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29545
 #EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="DISCOVERY WORLD *HD | DUAL-AUDIO" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="TV PREMIUM",DISCOVERY WORLD *HD | DUAL-AUDIO
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29550
-#EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="DISCOVERY WORLD *HD | DUAL-AUDIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png" group-title="TV PREMIUM",De Pelicula
-http://170.79.233.222:8500/play/a0k7/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,DRAMA
 http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,EDGE
@@ -553,10 +549,6 @@ http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
 http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/02/59/78/19/360_F_259781992_JMxw423W0wWfjgXKfc8ZPSCAVI4pbJjl.jpg" group-title="TV PREMIUM",FX
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/868
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cf/2qwqV7S.png" group-title="TV PREMIUM",Golden Edge
-http://170.79.233.222:8500/play/a0di/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="TV PREMIUM",Golden TV
-http://170.79.233.222:8500/play/a0hd/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bvb1TYrAtVg/XpPFQH-YyNI/AAAAAAAAKbY/4vjG8-7H5pc5Ixq-fKks1q1h5OPzqZCWgCLcBGAsYHQ/s1600/HBO%2BPLUS%2B%25281%2529.png" group-title="TV PREMIUM" ,HBO +
 http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IDfFkPvBqh8/XpPFRMOXusI/AAAAAAAAKbg/wvSN2Z-hThkZZWpufujB5LPl5Luir_dtwCLcBGAsYHQ/s1600/HBO.png" group-title="TV PREMIUM" ,HBO
@@ -567,12 +559,8 @@ http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FraMFYiu1-8/XpZTtYxObjI/AAAAAAAAKi4/jYGdcgUHyVcxlbiaaAcOviZaegU_9IbYgCLcBGAsYHQ/s1600/HBO%2BXTREME.png" group-title="TV PREMIUM" ,HBO XTREME
 http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/9bb19fc2ad40d0932596594264f6710c/section/5e57e9146ac3bf34c6dd3c66/4f12b95f92b0ef310be380695e0cf02f/img.png" group-title="TV PREMIUM" ,Lifetime TV
-http://170.79.233.222:8500/play/a0jz/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="TV PREMIUM",NATGEO
 http://38.18.238.42:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="TV PREMIUM",NATGEO WILD
-http://170.79.233.222:8500/play/a0i3/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="TV PREMIUM", Space HQ
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/859
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,STARZ
@@ -626,31 +614,31 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/31_minutos_logo.svg/1200px-31_minutos_logo.svg.png" group-title="Ocio",24/7 31 MINUTOS
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/30223
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hOtF4nb.jpg" group-title="Ocio",24/7 ALF
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/11.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/11.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Batman-66-logo.png" tvg-url="" group-title="Ocio",24/7 Batman 1966 Retro
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/14.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/14.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Batman-66-logo.png" tvg-url="" group-title="Ocio",24/7 Batman La serie Animada
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23869
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.pikpng.com/pngl/m/333-3330455_anlisis-de-la-beta-del-saint-seiya-on.png" tvg-url="" group-title="Ocio",24/7 CABALLEROS DEL ZODIACO
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/18.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/e6/27/f4/e627f460c489da6cb221611b6065534f.png" tvg-url="" group-title="Ocio",24/7 CSI:Miami
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/21.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/21.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="https://static.historyplay.tv/files/desafio-sobre-fuego-latam-thumb-600x310_0.jpg" group-title="Ocio",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/23.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/23.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/0f/3f/f2/0f3ff2157f4e941dab3d0f782e3d0946.jpg" tvg-url="" group-title="Ocio",24/7 Dragon Ball 
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23822
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png" group-title="Ocio", 24/7 El Chavo
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Ocio",24/7 Futurama
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/35.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/35.ts
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/58569baf4f6ae202fedf274e.png" group-title="Ocio",24/7 Iron Man
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",24/7 Los Simpsons
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/52.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/52.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.tumomopegas.com/files/pictures/logo_mi_bella_genio.png" tvg-url="" group-title="Ocio",24/7 Mi bella Genio
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23898
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Ocio",24/7 Naruto
@@ -666,7 +654,7 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
 https://d2nvs31859zcd8.cloudfront.net/ebcecdd073db50ee082c_wonderweiss_twitch_40430295645_1612333329/chunked/index-dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://static.wikia.nocookie.net/ytvwoah/images/b/bd/Spider-Man_1994.png" group-title="Ocio",24/7 SPIDER-MAN
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/69.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/69.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 1-6
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23897
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 7-12
@@ -686,7 +674,7 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png" group-title="Ocio", Cartoon Netwotk
 http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" tvg-url="" group-title="Ocio",Disney XD
-http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/289.ts
+http://zutv.online:2086/live/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtgsbfdgbsgdb/sadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedtsadfgbsaedt/289.ts
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Ocio", Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon
