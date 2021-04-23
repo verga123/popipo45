@@ -60,10 +60,12 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23995
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/40002
 #EXTINF:-1 tvg-id="BEIN SPORTS LALIGA *FHD | op2" tvg-name="BEIN SPORTS LALIGA *FHD | op2" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="Sport",BEIN SPORTS LALIGA *FHD | op2
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/1851
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 1
+http://200.95.184.42:8000/play/cdfhd
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 2
 http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/8118
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 3
-http:\\170.79.233.222:8500\play\a0jx\index.m3u8
+http://170.79.233.222:8500/play/a0jx/index.m3u8
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 4
 http://170.79.233.222:8500/play/a0jx/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-id="CDO BASICO *HD" tvg-name="CDO BASICO *HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="Sport",CDO BASICO *HD
@@ -596,6 +598,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://purorockoficial.files.wordpress.com/2017/12/cropped-pr_logorojo_001.png" group-title="Musica",Puro Rock Concert 24/7
 http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25?sd=10&dw=0&rebase=on
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musica", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="Musica", Telehit
@@ -647,8 +651,6 @@ http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrt
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23898
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Ocio",24/7 Naruto
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23827
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://i.pinimg.com/originals/79/49/d0/7949d0b45d83b904d9632879ccf2d3ad.png" group-title="Ocio",24/7 Naruto Shippuden
-http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23937
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="Ocio",24/7 Pantera Rosa
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23871
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Principe del Rap
@@ -683,8 +685,10 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29516
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" tvg-url="" group-title="Ocio",Disney XD
 http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/289.ts
+#EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png" group-title="Ocio", Kids TV
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Ocio", Locomotion TV
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon
 http://38.18.238.42:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon Classic
