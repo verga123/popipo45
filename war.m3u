@@ -606,6 +606,8 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 http://38.18.238.42:2095/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music
 https://stitcher.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",VH1 Megahits
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/251
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/programs/v/h/1/xvh1-shuffle-202921_SPA-29.jpg.pagespeed.ic.Mk7Bzciptp.jpg" group-title="Musica",VH1 Shuffle
