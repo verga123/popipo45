@@ -65,7 +65,7 @@ http://200.95.184.42:8000/play/cdfhd
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 2
 http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/8118
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 3
-http://170.79.233.222:8500/play/a0jx/index.m3u8
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/145517
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 4
 http://170.79.233.222:8500/play/a0jx/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-id="CDO BASICO *HD" tvg-name="CDO BASICO *HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg/245px-2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="Sport",CDO BASICO *HD
@@ -625,20 +625,26 @@ http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrt
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23869
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.pikpng.com/pngl/m/333-3330455_anlisis-de-la-beta-del-saint-seiya-on.png" tvg-url="" group-title="Ocio",24/7 CABALLEROS DEL ZODIACO
 http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://i.pinimg.com/originals/01/2b/1c/012b1ce37126778aff277c4bfe9e60ab.png" group-title="Ocio",24/7 Coraje el perro Cobarde
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/41589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/e6/27/f4/e627f460c489da6cb221611b6065534f.png" tvg-url="" group-title="Ocio",24/7 CSI:Miami
 http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/21.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="https://static.historyplay.tv/files/desafio-sobre-fuego-latam-thumb-600x310_0.jpg" group-title="Ocio",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
 http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/23.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://photos.tf1.fr/450/225/logo-programme_dr_house-bfd790-0@1x.jpg" group-title="Ocio",24/7 Dr. House
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/41608
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/0f/3f/f2/0f3ff2157f4e941dab3d0f782e3d0946.jpg" tvg-url="" group-title="Ocio",24/7 Dragon Ball 
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23822
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png" group-title="Ocio", 24/7 El Chavo
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8d722a95-67c0-4327-8dec-74bac90d68b6/d96h0gi-9efdd8b1-4942-473a-a9e6-37b964c41cd7.png" group-title="Ocio", 24/7 Espiritu de Lucha
-http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/1367
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/41639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Ocio",24/7 Futurama
 http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/35.ts
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_643.png" group-title="Ocio",24/7 Good Doctor
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/41619
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/samycat-es/images/f/fd/ICarly-Logo.png" group-title="Ocio",24/7 iCarly!
-http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/1380
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/41650
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/58569baf4f6ae202fedf274e.png" group-title="Ocio",24/7 Iron Man
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
@@ -653,6 +659,8 @@ http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrt
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23898
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Ocio",24/7 Naruto
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23827
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Ocio",24/7 Naruto Shippuden
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/66504
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="Ocio",24/7 Pantera Rosa
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23871
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Principe del Rap
@@ -661,6 +669,8 @@ http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23825
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/23845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
 https://d2nvs31859zcd8.cloudfront.net/ebcecdd073db50ee082c_wonderweiss_twitch_40430295645_1612333329/chunked/index-dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Ocio",24/7 Slam Dunk
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/41735
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://static.wikia.nocookie.net/ytvwoah/images/b/bd/Spider-Man_1994.png" group-title="Ocio",24/7 SPIDER-MAN
 http://zutv.online:2086/live/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/srthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrthsrth/69.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 1-6
@@ -700,254 +710,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.ver-television.online/images/tooncast_.png" tvg-url="" group-title="Ocio",Tooncast
 http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/1041
 
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 01
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20001%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 02
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20002%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 03
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20003%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 04
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20004%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 05
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20005%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 06
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20006%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 07
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20007%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 08
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20008%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 09
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20009%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 10
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20010%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 11
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20011%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 12
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20012%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 13
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20013%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 14
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20014%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 15
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20015%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 16
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20016%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 17
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20017%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 18
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20018%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 19
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20019%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 20
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20020%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 21
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20021%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 22
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20022%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 23
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20023%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 24
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20024%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 25
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20025%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 26
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20026%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 27
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20027%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 28
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20028%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 29
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20029%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 30
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20030%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 31
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20031%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 32
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20032%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 33
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20033%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 34
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20034%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 35
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20035%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 36
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20036%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 37
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20037%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 38
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20038%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 39
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20039%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 40
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20040%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 41
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20041%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 42
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20042%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 43
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20043%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 44
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20044%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 45
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20045%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 46
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20046%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 47
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20047%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 48
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20048%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 49
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20049%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 50
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20050%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 51
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20051%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 52
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20052%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 53
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20053%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 54
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20054%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 55
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20055%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 56
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20056%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 57
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20057%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 58
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20058%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 59
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20059%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 60
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20060%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 61
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20061%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 62
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20062%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 63
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20063%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 64
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20064%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 65
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20065%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 66
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20066%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 67
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20067%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 68
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20068%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 69
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20069%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 70
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20070%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 71
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20071%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 72
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20072%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 73
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20073%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 74
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20074%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 75
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20075%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 76
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20076%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 77
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20077%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 78
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20078%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 79
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20079%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 80
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20080%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 81
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20081%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 82
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20082%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 83
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20083%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 84
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20084%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 85
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20085%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 86
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20086%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 87
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20087%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 88
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20088%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 89
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20089%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 90
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20090%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 91
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20091%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 92
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20092%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 93
-https://archive.org/download/slam-dunk-en-espano,l-latino/Slam%20Dunk%20Episodio%20093%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 94
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20094%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 95
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20095%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 96
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20096%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 97
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20097%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 98
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20098%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 99
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20099%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 100
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20100%20en%20Espa%C3%B1ol%20latino.ia.mp4
-#EXTINF:-1, tvg-id="" tvg-name="Slam Dunk ep 1" tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Slam Dunk",Slam Dunk ep 101
-https://archive.org/download/slam-dunk-en-espanol-latino/Slam%20Dunk%20Episodio%20101%20en%20Espa%C3%B1ol%20latino%20%28Final%29.ia.mp4
-
-#EXTINF:-1 group-title="Santo Movies",Santo en el Hotel de la Muerte (1963)
-https://archive.org/download/sanhom63/sanhom63.avi
-#EXTINF:-1 group-title="Santo Movies",Santo en el Museo de Cera (1963)
-https://archive.org/download/sanmuce63/sanmuce63.avi
-#EXTINF:-1 group-title="Santo Movies",Santo y Blue Demon contra el Poder Satanico (1964)
-https://archive.org/download/sanbru64/sanposat64.avi
-#EXTINF:-1 group-title="Santo Movies",Santo en el Ataque de las Brujas (1964)
-https://archive.org/download/sanbru64/sanbru64.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra el Hacha Diabolica (1965)
-https://archive.org/download/sanbru64/sanhada65.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra el Espectro del Estrangulador (1966)
-https://archive.org/download/saneses66/saneses66.avi
-#EXTINF:-1 group-title="Santo Movies",Santo y los Profanadores de Tumbas (1966)
-https://archive.org/download/saneses66/sanprotu66.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra el Baron Brakola (1967)
-https://archive.org/download/sanbabra67/sanbabra67.avi
-#EXTINF:-1 group-title="Santo Movies",Santo en la Operacion 67 (1967)
-https://archive.org/download/saneses66/sanop67.avi
-#EXTINF:-1 group-title="Santo Movies",Santo y el Tesoro de Moctezuma (1968)
-https://archive.org/download/sanbabra67/santemo68.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra Blue Demon en la Atlantida (1969)
-https://archive.org/download/sanbabra67/sanbluat69.avi
-#EXTINF:-1 group-title="Santo Movies",Santo frente a la muerte (1969)
-https://archive.org/download/sanmu69/sanmu69.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra Capulina (1969)
-https://archive.org/download/sanca69/sanca69.avi
-#EXTINF:-1 group-title="Santo Movies",Santo y Blue Demon contra los Monstruos (1969)
-https://archive.org/download/sanca69/sanblumon69.avi
-#EXTINF:-1 group-title="Santo Movies",Santo y Blue Demon en el Mundo de los Muertos (1970)
-https://archive.org/download/sanmumu70/sanmumu70.avi
-#EXTINF:-1 group-title="Santo Movies",Santo y la Venganza de las Mujeres Vampiro (1970)
-https://archive.org/download/sanmumu70/sanvevam70.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra los Jinetes del Terror (1970)
-https://archive.org/download/sanca69/sanjite70.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra los Cazadores de Cabezas (1971)
-https://archive.org/download/sancaz71/sancaz71.avi
-#EXTINF:-1 group-title="Santo Movies",Santo en la Mision Suicida (1971)
-https://archive.org/download/sancaz71/sanmis71.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra la Hija de Frankestein (1971)
-https://archive.org/download/sanhifran71/sanhifran71.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra la Mafia del Vicio (1971)
-https://archive.org/download/sanhifran71/sanmavi71.avi
-#EXTINF:-1 group-title="Santo Movies",Santo contra las Momias de Guanajuato (1972)
-https://archive.org/download/sanmog72/sanmog72.avi
-
+#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2020/03/saw-logo-font-download.jpg" group-title="peliculas",24/7 SAW
+http://castlempire.site:8080/CMendizabal/B1ceOCtofz/66523
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas
 https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.imgur.com/Q8mtbWX.jpg", Cindy La Regia
@@ -992,6 +756,50 @@ https://archive.org/download/los-nuevos-mutantes-lat/Los%2BNuevos%2BMutantes%2BL
 https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina  
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 group-title="peliculas",Santo en el Hotel de la Muerte (1963)
+https://archive.org/download/sanhom63/sanhom63.avi
+#EXTINF:-1 group-title="peliculas",Santo en el Museo de Cera (1963)
+https://archive.org/download/sanmuce63/sanmuce63.avi
+#EXTINF:-1 group-title="peliculas",Santo y Blue Demon contra el Poder Satanico (1964)
+https://archive.org/download/sanbru64/sanposat64.avi
+#EXTINF:-1 group-title="peliculas",Santo en el Ataque de las Brujas (1964)
+https://archive.org/download/sanbru64/sanbru64.avi
+#EXTINF:-1 group-title="peliculas",Santo contra el Hacha Diabolica (1965)
+https://archive.org/download/sanbru64/sanhada65.avi
+#EXTINF:-1 group-title="peliculas",Santo contra el Espectro del Estrangulador (1966)
+https://archive.org/download/saneses66/saneses66.avi
+#EXTINF:-1 group-title="peliculas",Santo y los Profanadores de Tumbas (1966)
+https://archive.org/download/saneses66/sanprotu66.avi
+#EXTINF:-1 group-title="peliculas",Santo contra el Baron Brakola (1967)
+https://archive.org/download/sanbabra67/sanbabra67.avi
+#EXTINF:-1 group-title="peliculas",Santo en la Operacion 67 (1967)
+https://archive.org/download/saneses66/sanop67.avi
+#EXTINF:-1 group-title="peliculas",Santo y el Tesoro de Moctezuma (1968)
+https://archive.org/download/sanbabra67/santemo68.avi
+#EXTINF:-1 group-title="peliculas",Santo contra Blue Demon en la Atlantida (1969)
+https://archive.org/download/sanbabra67/sanbluat69.avi
+#EXTINF:-1 group-title="peliculas",Santo frente a la muerte (1969)
+https://archive.org/download/sanmu69/sanmu69.avi
+#EXTINF:-1 group-title="peliculas",Santo contra Capulina (1969)
+https://archive.org/download/sanca69/sanca69.avi
+#EXTINF:-1 group-title="peliculas",Santo y Blue Demon contra los Monstruos (1969)
+https://archive.org/download/sanca69/sanblumon69.avi
+#EXTINF:-1 group-title="peliculas",Santo y Blue Demon en el Mundo de los Muertos (1970)
+https://archive.org/download/sanmumu70/sanmumu70.avi
+#EXTINF:-1 group-title="peliculas",Santo y la Venganza de las Mujeres Vampiro (1970)
+https://archive.org/download/sanmumu70/sanvevam70.avi
+#EXTINF:-1 group-title="peliculas",Santo contra los Jinetes del Terror (1970)
+https://archive.org/download/sanca69/sanjite70.avi
+#EXTINF:-1 group-title="peliculas",Santo contra los Cazadores de Cabezas (1971)
+https://archive.org/download/sancaz71/sancaz71.avi
+#EXTINF:-1 group-title="peliculas",Santo en la Mision Suicida (1971)
+https://archive.org/download/sancaz71/sanmis71.avi
+#EXTINF:-1 group-title="peliculas",Santo contra la Hija de Frankestein (1971)
+https://archive.org/download/sanhifran71/sanhifran71.avi
+#EXTINF:-1 group-title="peliculas",Santo contra la Mafia del Vicio (1971)
+https://archive.org/download/sanhifran71/sanmavi71.avi
+#EXTINF:-1 group-title="peliculas",Santo contra las Momias de Guanajuato (1972)
+https://archive.org/download/sanmog72/sanmog72.avi
 #EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO  
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus  
