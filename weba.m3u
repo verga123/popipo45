@@ -34,10 +34,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=9df1402e-7af4-11eb-8477-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="AYM SPORTS *HD" tvg-name="AYM SPORTS *HD" tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook.jpg" group-title="Sport",AYM SPORTS *HD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/2345
-#EXTINF:-1 group-title="Sport" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="Sport",BEIN SPORTS Ñ
-http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="Sport",BEIN SPORTS HD
-http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS *FHD" tvg-name="BEIN SPORTS *HQ" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="Sport",BEIN SPORTS *HQ
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/23994
 #EXTINF:-1 tvg-id="BEIN SPORTS *FHD" tvg-name="BEIN SPORTS *FHD" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="Sport",BEIN SPORTS *FHD
@@ -70,8 +66,6 @@ http://170.79.233.222:8500/play/a0jx/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnH
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1839
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="CDO PREMIUM *HD" tvg-logo="https://lisa.zapping.live/uploads/canales/color/cdo.jpg" group-title="Sport",CDO PREMIUM *HD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1840
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="Sport",CLARO SPORTS
-http://38.18.237.42:2095/andromeda/BEINENG/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="CLARO SPORTS *HQ" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="Sport",CLARO SPORTS *HQ
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/2351
 #EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="CLARO SPORTS *HD" tvg-logo="https://www.elimparcial.com/__export/1554579865733/sites/elimparcial/img/2018/04/06/1838753-N.JPG_1359985867.jpg" group-title="Sport",CLARO SPORTS *HD
@@ -116,14 +110,6 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/5189
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/5191
 #EXTINF:-1 tvg-id="DIRECTV SPORTS + *FHD" tvg-name="DIRECTV SPORTS + PE *FHD" tvg-logo="https://i.pinimg.com/736x/4c/4e/a9/4c4ea96476d3deac949512c2465b9588.jpg" group-title="Sport",DIRECTV SPORTS + PE *FHD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/40004
-#EXTINF:-1 group-title="Sport" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Colores.jpg" group-title="Sport",ESPN Deportes
-http://38.18.238.35:2095/encoder82/evento16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Colores.jpg" group-title="Sport",ESPN 1 MX
-http://38.18.237.42:2095/evento/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Colores.jpg" group-title="Sport",ESPN 2 MX
-http://38.18.237.42:2095/evento2/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Colores.jpg" group-title="Sport",ESPN 3 MX
-http://38.18.237.42:2095/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN CL *HD" tvg-name="ESPN CL *HQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN CL *HQ
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/40100
 #EXTINF:-1 tvg-id="ESPN CL *HD" tvg-name="ESPN CL *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN CL *HD
@@ -210,12 +196,6 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1798
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1790
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="ESPN EXTRA BR *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN EXTRA BR *HD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/2333
-#EXTINF:-1 group-title="Sport" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 1 MX
-http://38.18.237.42:2095/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 2 MX
-http://38.18.237.42:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS 3 MX
-http://38.18.237.42:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX DEPORTES *FHD" tvg-name="FOX DEPORTES *FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX DEPORTES *FHD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1838
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="FOX SPORTS BR *HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS BR *HD
@@ -367,7 +347,7 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1828
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES *FHD" tvg-name="MOVISTAR DEPORTES *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jMgvlpQbDm4tXyq3AF2DoDC3NJGUrbuIwjCYvGGxl-SLD2pT&s" group-title="Sport",MOVISTAR DEPORTES *FHD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QACuFZN.png" group-title="Sport",NBA Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/5629
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-url="" group-title="Sport",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-UR3StGPTL3A/Xjjowdc3yyI/AAAAAAABwpc/uzDmweByniYjkGM6Kgfo4Z68zRny-qlsgCK4BGAYYCw/s1600/EL_BAZAR_DEL_ESPECTACULO-04_02_2020_00_44_07-0001-703628.jpeg" group-title="Sport",Pluto Peleas
@@ -400,8 +380,6 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/2328
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/30423
 #EXTINF:-1 tvg-id="TELEDEPORTE *FHD" tvg-name="TELEDEPORTE *FHD" tvg-logo="https://img.irtve.es/imagenes/jpg/1331827196060.jpg" group-title="Sport",TELEDEPORTE *FHD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1824
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="Sport",TELEMUNDO
-http://38.18.237.42:2095/andrew/telehit/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TELETRACK *HD" tvg-name="TELETRACK *HD" tvg-logo="https://www.mallsyoutletsvivo.cl/vivo-imperio/wp-content/uploads/sites/4/2018/07/logo-teletrak.jpg" group-title="Sport",TELETRACK *HD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1823
 #EXTINF:-1 tvg-id="TIGO SPORTS 1 *HD" tvg-name="TIGO SPORTS 1 *HD" tvg-logo="https://pbs.twimg.com/profile_images/963545741250588672/liEclGMF_400x400.jpg" group-title="Sport",TIGO SPORTS 1 *HD
@@ -454,16 +432,8 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/22258
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1808
 #EXTINF:-1 tvg-id="TUDN *FHD" tvg-name="TUDN *FHD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/08/televisa-afiliados-canales-tudn.jpg" group-title="Sport",TUDN *FHD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1809
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Sport",TUDN MX
-http://38.18.237.42:2095/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Sport",TUDN US
-http://38.18.238.35:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/532px-UFC_logo.svg.png" tvg-url="" group-title="Sport",UFC Fight Pass HD
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/5429
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="Sport",UNIMAS
-http://38.18.238.35:2095/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="Sport",UNIVERSO
-http://38.18.238.35:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVC DEPORTES *HQ" tvg-name="TVC DEPORTES *HQ" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tvcdeportes-175x175.png" group-title="Sport",TVC DEPORTES *HQ
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/1813
 #EXTINF:-1 tvg-id="TVC DEPORTES *HD" tvg-name="TVC DEPORTES *HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tvcdeportes-175x175.png" group-title="Sport",TVC DEPORTES *HD
@@ -750,6 +720,8 @@ https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://img.repelis.id/cover/los-ultimos-caballeros.jpg", Last Knights
 https://archive.org/download/last-knights/99eedb5a5eba01271f87c433cb42230d-480p.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://img.repelis.id/cover/los-ultimos-caballeros.jpg", Mortal Kombat (2021)
+http://xdgo.live:8080/movie/lavozdeorion/aU5Tw9PV5e/45171.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.imgur.com/VqsHkea.jpg", Nosotros Los Nobles  
