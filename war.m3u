@@ -517,8 +517,6 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/29550
 http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,EDGE
 http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,ENCORE
-http://f4.tvxweb.net:8082/24314/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/02/59/78/19/360_F_259781992_JMxw423W0wWfjgXKfc8ZPSCAVI4pbJjl.jpg" group-title="TV PREMIUM",FX
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/868
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bvb1TYrAtVg/XpPFQH-YyNI/AAAAAAAAKbY/4vjG8-7H5pc5Ixq-fKks1q1h5OPzqZCWgCLcBGAsYHQ/s1600/HBO%2BPLUS%2B%25281%2529.png" group-title="TV PREMIUM" ,HBO +
@@ -538,11 +536,9 @@ http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/859
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,STARZ
 http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="TV PREMIUM",SYFY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/769
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV PREMIUM",TCM
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/886
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV PREMIUM",TCM 2
-http://170.79.233.222:8500/play/a0he/index.m3u8?fbclid=IwAR2aqL07oivIE0yqYA9EGnHJV5WmnkIwmTVcFg0118L5PcdtDpcZL5URKNc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="TV PREMIUM",TNT Latino
 http://xdgo.live:8080/lavozdeorion/aU5Tw9PV5e/855
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="TV PREMIUM",TNT
