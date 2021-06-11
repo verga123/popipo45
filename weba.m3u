@@ -656,11 +656,11 @@ http://xdgo.live:8080/live/darydominguez88/PfSceY9kyS/23862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="http://azxtv.com/aztv.png" group-title="Ocio", Anime Loving TV
-http://animeloving.net/hls/stream.m3u8?PlaylistM3UCL
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884675389859090432/ZZ_PwKWt_400x400.jpg" group-title="Ocio", Aniplus TV (Asia) HD
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png" group-title="Ocio", Cartoon Netwotk
-http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29516
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" tvg-url="" group-title="Ocio",Disney XD
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29531
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png" group-title="Ocio", Kids TV
@@ -668,7 +668,7 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Ocio", Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon
-http://38.18.238.42:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29667
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Ocio", Pluto Anime TV
