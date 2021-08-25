@@ -495,12 +495,10 @@ http://castlempire.site:8080/CMendizabal/B1ceOCtofz/56385
 http://castlempire.site:8080/CMendizabal/B1ceOCtofz/168487
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="TV PREMIUM",ACTION *HD | DUAL-AUDIO
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29534
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,BLACK
-http://f4.tvxweb.net:8082/35982/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,CINEMA
-http://f4.tvxweb.net:8082/24317/mpegts?token=MxPReBvRE1
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/785
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,COMEDY
-http://f4.tvxweb.net:8082/35975/mpegts?token=MxPReBvRE1
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/791
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HQ" tvg-name="DISCOVERY CHANNEL *HD | DUAL-AUDIO" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="TV PREMIUM",DISCOVERY CHANNEL *HD | DUAL-AUDIO
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29527
 #EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="DISCOVERY H&H *HD | DUAL-AUDIO" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="TV PREMIUM",DISCOVERY H&H *HD | DUAL-AUDIO
@@ -513,28 +511,30 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29549
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29545
 #EXTINF:-1 tvg-id="DISCOVERY WORLD *HD" tvg-name="DISCOVERY WORLD *HD | DUAL-AUDIO" tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png" group-title="TV PREMIUM",DISCOVERY WORLD *HD | DUAL-AUDIO
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29550
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,DRAMA
-http://f4.tvxweb.net:8082/35979/mpegts?token=MxPReBvRE1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,LIFE
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/793
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,EDGE
-http://f4.tvxweb.net:8082/35968/mpegts?token=MxPReBvRE1
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/829
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/02/59/78/19/360_F_259781992_JMxw423W0wWfjgXKfc8ZPSCAVI4pbJjl.jpg" group-title="TV PREMIUM",FX
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/868
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bvb1TYrAtVg/XpPFQH-YyNI/AAAAAAAAKbY/4vjG8-7H5pc5Ixq-fKks1q1h5OPzqZCWgCLcBGAsYHQ/s1600/HBO%2BPLUS%2B%25281%2529.png" group-title="TV PREMIUM" ,HBO +
-http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/812
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IDfFkPvBqh8/XpPFRMOXusI/AAAAAAAAKbg/wvSN2Z-hThkZZWpufujB5LPl5Luir_dtwCLcBGAsYHQ/s1600/HBO.png" group-title="TV PREMIUM" ,HBO
-http://38.18.238.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/814
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cm63SBzoR_4/XpPFRlcmUYI/AAAAAAAAKbk/vFifq-gXyZUn-DFnlm0zp8vEhEaXhWa6ACLcBGAsYHQ/s1600/HBO2.png" group-title="TV PREMIUM" ,HBO 2
-http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/810
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AF0l1HPqQXM/XpPFPsOiEOI/AAAAAAAAKbU/hC-VzGeNzJoMqNKGE8r6BpPDQr6QUiE8gCLcBGAsYHQ/s1600/HBO%2BFAMILI.png" group-title="TV PREMIUM" ,HBO FAMILY
-http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/811
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FraMFYiu1-8/XpZTtYxObjI/AAAAAAAAKi4/jYGdcgUHyVcxlbiaaAcOviZaegU_9IbYgCLcBGAsYHQ/s1600/HBO%2BXTREME.png" group-title="TV PREMIUM" ,HBO XTREME
-http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/809
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="TV PREMIUM",NATGEO
-http://38.18.238.42:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29542
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="TV PREMIUM",NATGEO WILD
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29541
 #EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="TV PREMIUM", Space HQ
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/859
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,STARZ
-http://f4.tvxweb.net:8082/35974/mpegts?token=MxPReBvRE1
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/820
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="TV PREMIUM",SYFY
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/769
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV PREMIUM",TCM
@@ -548,7 +548,7 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/22264
 #EXTINF:-1 tvg-id="WARNER CHANNEL *FHD" tvg-name="WARNER CHANNEL *FHD" tvg-logo="https://cdn.shopify.com/s/files/1/2501/7648/articles/Captura_de_pantalla_2018-01-15_a_la_s_10.43.55_1024x1024.png?v=1516156974" group-title="TV PREMIUM", WARNER CHANNEL HQ
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/852
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,WESTERN
-http://f4.tvxweb.net:8082/35976/mpegts?token=MxPReBvRE1
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/822
 
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Bandamax
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/198
@@ -560,20 +560,16 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://v1.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Musica",MTV (Latin America)
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29637
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" tvg-url="" group-title="Musica",MTV Hits
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="Musica",On Radio KPOP Chile
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://purorockoficial.files.wordpress.com/2017/12/cropped-pr_logorojo_001.png" group-title="Musica",Puro Rock Concert 24/7
-http://159.69.56.148:25461/M3UMix247/89ph5uifoi/25?sd=10&dw=0&rebase=on
+#EXTINF:-1 tvg-logo="https://purorockoficial.files.wordpress.com/2017/12/cropped-pr_logorojo_001.png" group-title="Musica",Puro Rock 24/7
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w375896516.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musica", Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1054002753.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="Musica", Telehit
-http://38.18.238.42:2095/live/DTURBO/chunk_Auth=ix08x%C3%82%C2%A0Z6Q7r567Z5%5E@9WxF%C3%82%C2%A0g7x%C3%82%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music
-https://stitcher.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://xdgo.live:8080/darydominguez88/PfSceY9kyS/239
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Musica",VH1 Megahits
@@ -593,30 +589,20 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23869
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23901
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://i.pinimg.com/originals/01/2b/1c/012b1ce37126778aff277c4bfe9e60ab.png" group-title="Ocio",24/7 Coraje el perro Cobarde
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23819
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/e6/27/f4/e627f460c489da6cb221611b6065534f.png" tvg-url="" group-title="Ocio",24/7 CSI:Miami
-http://gooserace.xyz:2052/darshan/darshan/2606035
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://photos.tf1.fr/450/225/logo-programme_dr_house-bfd790-0@1x.jpg" group-title="Ocio",24/7 Dr. House
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169470
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_Drake_y_Josh.jpg" group-title="Ocio",24/7 Drake & Josh
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169529
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1260
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/0f/3f/f2/0f3ff2157f4e941dab3d0f782e3d0946.jpg" tvg-url="" group-title="Ocio",24/7 Dragon Ball 
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23822
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png" group-title="Ocio", 24/7 El Chavo
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8d722a95-67c0-4327-8dec-74bac90d68b6/d96h0gi-9efdd8b1-4942-473a-a9e6-37b964c41cd7.png" group-title="Ocio", 24/7 Espiritu de Lucha
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169549
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Ocio",24/7 Futurama
-http://s0lc.net:8080/Michelle/Michelle/3007
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_643.png" group-title="Ocio",24/7 Good Doctor
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169532
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1367
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/samycat-es/images/f/fd/ICarly-Logo.png" group-title="Ocio",24/7 iCarly!
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169558
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1380
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/thumbs/58569baf4f6ae202fedf274e.png" group-title="Ocio",24/7 Iron Man
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i1.wp.com/www.supermanhomepage.com/clickandbuilds/SupermanHomepage/wp-content/uploads/2019/05/JL_Shield_Logo_5ce579e08be022.52738173.jpg" tvg-url="" group-title="Ocio",24/7 Liga de la Justicia
-http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/4765
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",24/7 Los Simpsons
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
@@ -626,7 +612,7 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23898
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Ocio",24/7 Naruto
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23827
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/640px-Naruto_logo.svg.png" group-title="Ocio",24/7 Naruto Shippuden
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169608
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/4788
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="Ocio",24/7 Pantera Rosa
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23871
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="Ocio",24/7 Principe del Rap
@@ -635,10 +621,8 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23825
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
 https://d2nvs31859zcd8.cloudfront.net/ebcecdd073db50ee082c_wonderweiss_twitch_40430295645_1612333329/chunked/index-dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Server21/IPTV-Pro/master/Anime/Immagini/Slam%20Dunk/Ep%20Slam%20Dunk.jpg" group-title="Ocio",24/7 Slam Dunk
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169633
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://static.wikia.nocookie.net/ytvwoah/images/b/bd/Spider-Man_1994.png" group-title="Ocio",24/7 SPIDER-MAN
-http://gooserace.xyz:2052/darshan/darshan/2606014
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/4797
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 1-6
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23897
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 7-12
@@ -648,7 +632,7 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23938
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Yu-Gi-Oh%21_%28Logo%29.jpg" tvg-url="" group-title="Ocio", 24/7 YuGiOh
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/yugiohenespanol/images/4/45/YGO_GX_logo.jpg" tvg-url="" group-title="Ocio", 24/7 YuGiOh GX!
-http://disfruta.net:80/yeKy45tUCq/rMHNFGtmnK/2610
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/2610
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/ee/d0/3e/eed03e2afb15b03fd3dc8ddee0766057.jpg" tvg-url="" group-title="Ocio",24/7 Tom & Jerry
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23839
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://jackandthegeekstalk.files.wordpress.com/2016/11/x-men-logo.png" tvg-url="" group-title="Ocio",24/7 X-Men Serie Animada
@@ -663,6 +647,8 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" tvg-url="" group-title="Ocio",Disney XD
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29531
+#EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://kanadetv.live/gallery/Branded_Logo_Icon_Only-ts1626819959.png" group-title="Ocio", Kanade TV
+http://45.32.74.87:8080/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png" group-title="Ocio", Kids TV
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Ocio", Locomotion TV
@@ -676,8 +662,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.ver-television.online/images/tooncast_.png" tvg-url="" group-title="Ocio",Tooncast
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1041
 
-#EXTINF:-1 tvg-logo="https://hyperpix.net/wp-content/uploads/2020/03/saw-logo-font-download.jpg" group-title="peliculas",24/7 SAW
-http://castlempire.site:8080/CMendizabal/B1ceOCtofz/169368
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas
 https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.imgur.com/Q8mtbWX.jpg", Cindy La Regia
