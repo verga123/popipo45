@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="CHILE", 24 Horas Play 
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 Regional
-https://unlimited1-cl-movistar.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=29682976&WebM3UCL
+https://unlimited1-cl-movistar.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1742?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13 Cable
@@ -12,7 +12,7 @@ https://tls.cdnz.cl/canal21tv/live/playlist.m3u8&f=.m3u8
 #EXTINF:-1 tvg-id="45122" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1746?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529051.png" group-title="CHILE", CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?nimblesessionid=29680318&WebM3UCL
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://img2.wikia.nocookie.net/__cb20131204230651/doblaje/es/images/3/31/Etc.tv.jpg" tvg-url="" group-title="CHILE",ETC TV
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1765?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2019/08/fb-lared-img.jpg" tvg-url="" group-title="CHILE",La Red
@@ -612,7 +612,7 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23825
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" tvg-url="" group-title="Ocio",24/7 RANMA ½
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629933762/ei/YnwmYZ_6LYiQwQS6wKM4/ip/207.248.193.175/id/pVqCZ8SUY38.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXnKwMX6P3xm-1p07cLiF4QmmTMv4QeQl7Pdr9z11C_MCIQDIOimlL-6JPO2C1dkrtuc5bMcc3SgYEcHlgY7vufC8OQ%3D%3D/file/index.m3u8
+https://www.youtube.com/watch?v=pVqCZ8SUY38
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 1-6
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/23897
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 7-12
