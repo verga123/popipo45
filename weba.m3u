@@ -313,7 +313,7 @@ http://xdgo.live:8080/darydominguez88/PfSceY9kyS/24260
 #EXTINF:-1 tvg-id="TIGO SPORTS COSTA RICA *HD" tvg-name="FUTV *HD | op3" tvg-logo="https://i.imgur.com/G2bhlXv.jpg" group-title="Sport",FUTV *HD | op3
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/29266
 #EXTINF:-1 tvg-id="AYM SPORTS *HD" tvg-name="AYM SPORTS *HD" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/3/3e/Gaora_TV.jpg" group-title="Sport",Gaora TV
-http://122.155.180.8:5021/live/413
+http://122.155.180.8:5021/live/413?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="GOL PERU *HQ" tvg-name="GOL PERU *HQ" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="Sport",GOL PERU *HQ
 http://xdgo.live:8080/darydominguez88/PfSceY9kyS/1835
 #EXTINF:-1 tvg-id="GOL PERU *HD" tvg-name="GOL PERU *HD" tvg-logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg" group-title="Sport",GOL PERU *HD
