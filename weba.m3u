@@ -554,6 +554,8 @@ http://xdgo.live:8080/jellara/P7GhsNM6MT/852
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,WESTERN
 http://xdgo.live:8080/jellara/P7GhsNM6MT/822
 
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://i.pinimg.com/736x/2a/db/37/2adb372e1a8aab8c866d093e3cd9574b.jpg" group-title="Musica", 24/7 LoFi Hiphop Radio
+https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5qap5aO4i9A
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Bandamax
 http://xdgo.live:8080/jellara/P7GhsNM6MT/198
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1157_7_147957.png" group-title="Musica",Concert Channel
@@ -600,7 +602,7 @@ http://xdgo.live:8080/jellara/P7GhsNM6MT/23872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="" group-title="Ocio",24/7 Kenan & Kel 
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="" group-title="Ocio",24/7 Los Simpsons
-https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://ok.ru/video/4736335224391
+http://xdgo.live:8080/jellara/P7GhsNM6MT/23829
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="" group-title="Ocio",24/7 Malcolm in the Middle
 http://xdgo.live:8080/jellara/P7GhsNM6MT/23900
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.tumomopegas.com/files/pictures/logo_mi_bella_genio.png" tvg-url="" group-title="Ocio",24/7 Mi bella Genio
