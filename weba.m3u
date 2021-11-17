@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="CHILE", 24 Horas Play 
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 Regional
-https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=9909912
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13
 http://xdgo.live:8080/jellara/P7GhsNM6MT/1742?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13 Cable
