@@ -551,7 +551,7 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/852
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/822
 
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://i.pinimg.com/736x/2a/db/37/2adb372e1a8aab8c866d093e3cd9574b.jpg" group-title="Musica", 24/7 LoFi Hiphop Radio
-https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5qap5aO4i9A
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5qap5aO4i9A
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Bandamax
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/198
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1157_7_147957.png" group-title="Musica",Concert Channel
@@ -569,7 +569,7 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w375
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musica", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1054002753.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
-https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1277760217.m3u8
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1277760217.m3u8
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="Musica", Telehit
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/239
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.elpoderdelasideas.com/wp-content/uploads/vevo_logo_detalles.png" group-title="Musica",Vevo Music Latino
@@ -612,7 +612,7 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/23825
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" tvg-url="" group-title="Ocio",24/7 RANMA ½
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/23845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
-https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=pVqCZ8SUY38
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U2Y7pW3fz24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 1-6
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/23897
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 7-12
