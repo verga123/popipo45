@@ -28,8 +28,6 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2393?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EuD3NFEVxqo/XwcVyOUbDHI/AAAAAAAA2mo/ZUkrO1nc7GQPy2ycgo8jROEUH3c9ASw-QCK8BGAsYHg/s0/2020-07-09.png" group-title="CHILE",UCV
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://solowrestling.mundodeportivo.com/uploads/RESEM88299rohcovid19.jpg" group-title="Sport",Ring of Honor
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://images.mediotiempo.com/CBBUrXoxE8IqBAYgYAap_uhUSUA=/958x596/uploads/media/2020/03/04/logo-lucha-libre-aaa_46_0_868_540.jpg" group-title="Sport",AAA Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="Sport",All Elite Wrestling
@@ -374,6 +372,8 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2342
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2349
 #EXTINF:-1 tvg-id="RAI SPORTS *FHD" tvg-name="RAI SPORTS *FHD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/09/rai-sports-logo.jpg" group-title="Sport",RAI SPORTS *FHD
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2348
+#EXTINF:-1 tvg-logo="https://solowrestling.mundodeportivo.com/uploads/RESEM88299rohcovid19.jpg" group-title="Sport",Ring of Honor
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="SPORTV *HD" tvg-name="SPORTV *HD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport",SPORTV *HD
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2329
 #EXTINF:-1 tvg-id="SPORTV 2 *HD" tvg-name="SPORTV 2 *HD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport",SPORTV 2 *HD
@@ -491,7 +491,7 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/21861
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="WINSPORTS PLUS *FHD | op2" tvg-logo="https://bolavip.com/__export/1579878857776/sites/bolavip/img/2020/01/24/win_x1_crop1579878857355.png_267849830.png" group-title="Sport",WINSPORTS PLUS *FHD | op2
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/22149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png" tvg-url="" group-title="Sport",WWE Network
-http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2344
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/25807
 
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="TV PREMIUM",A&E Latino
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/948
