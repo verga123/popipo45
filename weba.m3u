@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="DEPORTES", CDF 01
-http://l3dtv.ga:8080/chavaba/F9SzmKr8Aq/25361
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="DEPORTES", CDF 02
-http://castlempire.site:8080/achacon1/VVo5375e36/176196
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="DEPORTES", CDF 03
-http://castlempire.site:8080/achacon1/VVo5375e36/170103
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="DEPORTES", CDF 04
-http://castlempire.site:8080/achacon1/VVo5375e36/169262
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="DEPORTES", CDF 05
-http://qqtv.nl:8080/live/norma/12345/389556.m3u8
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521418779.jpg" group-title="DEPORTES", CDF 06
-http://qqtv.nl:8080/live/norma/12345/389558.m3u8
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 1
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/1843
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 2
+http://tv-prime.tv:8080/aldojaramillo201prime/El3FFOF8Pu/1842
