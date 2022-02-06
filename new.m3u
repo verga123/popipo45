@@ -494,11 +494,11 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/948
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="TV PREMIUM",A&E USA
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/2208
 #EXTINF:-1 tvg-id="FOX PREMIUM ACTION *HQ" tvg-name="STAR ACTION *HD | DUAL-AUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="TV PREMIUM",ACTION *HD | DUAL-AUDIO
-http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/29534
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/828
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,CINEMA
-http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/785
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/832
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="TV PREMIUM" ,COMEDY
-http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/791
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/831
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HQ" tvg-name="DISCOVERY CHANNEL *HD | DUAL-AUDIO" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="TV PREMIUM",DISCOVERY CHANNEL *HD | DUAL-AUDIO
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/29527
 #EXTINF:-1 tvg-id="DISCOVERY H&H *HD" tvg-name="DISCOVERY H&H *HD | DUAL-AUDIO" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="TV PREMIUM",DISCOVERY H&H *HD | DUAL-AUDIO
@@ -623,22 +623,24 @@ http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/23938
 https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/originals/ee/d0/3e/eed03e2afb15b03fd3dc8ddee0766057.jpg" tvg-url="" group-title="Ocio",24/7 Tom & Jerry
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/23839
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/xmen9260/images/1/1c/X-Men_Logo.png" tvg-url="" group-title="Ocio",24/7 Universo X-Men
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/41080
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://jackandthegeekstalk.files.wordpress.com/2016/11/x-men-logo.png" tvg-url="" group-title="Ocio",24/7 X-Men Serie Animada
-http://xdgo.live:8080/live/jellara/P7GhsNM6MT/23862.m3u8
+http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/23862
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="" group-title="Ocio",Anime Action
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="http://azxtv.com/aztv.png" group-title="Ocio", Anime Loving TV
-http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg" group-title="Ocio", Animax TV
-https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="Ocio", Aniplus TV
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png" group-title="Ocio", Cartoon Netwotk
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/1079
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" tvg-url="" group-title="Ocio",Disney XD
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/29531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd-160x90.png" tvg-url="" group-title="Ocio",Energeek TV
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w142932884.m3u8
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615hMYiYO3L.png" group-title="Ocio", Kids TV
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Ocio", Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon
 http://xdgo.live:8080/LuisLunNov27/sdx6KaabRy/29667
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" tvg-url="" group-title="Ocio",Nickelodeon Classic
