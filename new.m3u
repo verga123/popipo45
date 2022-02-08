@@ -562,6 +562,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://v1.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Musica",MTV (Latin America)
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/29637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" tvg-url="" group-title="Musica",Much Music
+https://edge02-fdo-py.cvattv.com.ar/live/c2live/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="Musica",On Radio KPOP Chile
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://purorockoficial.files.wordpress.com/2017/12/cropped-pr_logorojo_001.png" group-title="Musica",Puro Rock 24/7
