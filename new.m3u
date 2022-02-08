@@ -336,6 +336,8 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1834
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1831
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sport",Impact Wrestling 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="LA LIGA TV *FHD" tvg-name="LALIGA TV *FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg" group-title="Sport",LALIGA TV *FHD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1830
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES *HD" tvg-name="MOVISTAR DEPORTES *HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jMgvlpQbDm4tXyq3AF2DoDC3NJGUrbuIwjCYvGGxl-SLD2pT&s" group-title="Sport",MOVISTAR DEPORTES *HD
