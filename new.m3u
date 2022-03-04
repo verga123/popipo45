@@ -192,8 +192,10 @@ http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1798
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1790
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="ESPN EXTRA BR *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN EXTRA BR *HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2333
-#EXTINF:-1 tvg-id="FOX DEPORTES *FHD" tvg-name="FOX DEPORTES *FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX DEPORTES *FHD
-http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/1838
+#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="ESPN EXTRA BR *HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="Sport",ESPN EXTRA BR *HD
+http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2333
+#EXTINF:-1 tvg-id="FOX DEPORTES *FHD" tvg-name="FOX DEPORTES *FHD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FITE TV
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="FOX SPORTS BR *HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS BR *HD
 http://xdgo.live:8080/fontanezenittmia/AXaWZNUG6J/2336
 #EXTINF:-1 tvg-id="FOX SPORTS CL *HD" tvg-name="FOX SPORTS CL *HD" tvg-logo="https://yata-apix-1e96f219-4329-4b6e-ac4a-52eb34256608.lss.locawebcorp.com.br/e3aabf2b99c0473186d7230a01611159.jpg" group-title="Sport",FOX SPORTS CL *HD
