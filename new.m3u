@@ -614,7 +614,7 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/23825
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Ranma_%C2%BD_rebuilt_logo_in_vector_graphics.png" tvg-url="" group-title="Ocio",24/7 RANMA ½
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/23845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="Ocio",24/7 Resident Evil Channel
-https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U2Y7pW3fz24
+https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=82iWqe2jaNU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 1-6
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/23897
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1200px-TBBT_logo.svg.png" group-title="Ocio",24/7 The Big Bang Theory 7-12
