@@ -8,7 +8,7 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1742?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="CHILE", Canal 13 Cable
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1738
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.canal21tv.cl/wp/wp-content/uploads/2017/06/LogoFront-1.png" tvg-url="" group-title="CHILE",Canal 21 (720p)
-https://tls.cdnz.cl/canal21tv/live/playlist.m3u8&f=.m3u8
+https://tls-cl.cdnz.cl/canal21tv/live/chunklist_w1392025145.m3u8
 #EXTINF:-1 tvg-id="45122" tvg-name="CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png" group-title="CHILE", CHV
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1746?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/logo_15009529051.png" group-title="CHILE", CNN Chile
