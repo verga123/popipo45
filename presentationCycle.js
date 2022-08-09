@@ -30,11 +30,11 @@ var presentationCycle = {
     //progressbar options
     barHeight: 14,
     barDisplacement: 20,
-    barImgLeft: "https://web.archive.org/web/20150109215423/http://i.minus.com/ib1Pt9UJuKvpfD.gif",
-    barImgRight: "https://web.archive.org/web/20150109215423/http://i.minus.com/i8LdbuwXZPPsz.gif",
-    barImgCenter: "https://web.archive.org/web/20150109215423/http://i.minus.com/i1pnUNfeoPQ7J.gif",
-    barImgBarEmpty: "https://web.archive.org/web/20150109215423/http://i.minus.com/iEm3kW7o26mWO.gif",
-    barImgBarFull: "https://web.archive.org/web/20150109215423/http://i.minus.com/iboXJ89Sp1MFDL.gif",
+    barImgLeft: "https://i.imgur.com/ci2v6Zx.png",
+    barImgRight: "https://i.imgur.com/VbaDyze.png",
+    barImgCenter: "https://i.imgur.com/KTkU1gj.png",
+    barImgBarEmpty: "https://i.imgur.com/QZFNc2S.png",
+    barImgBarFull: "https://i.imgur.com/217m6vG.png",
     
     //variables this script need
     itemCount: 0,
