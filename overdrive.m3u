@@ -65,7 +65,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/171801
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170103
 #EXTINF:-1 tvg-id="" tvg-name="CH | TNT SPORTS 2 SD " tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="Chile",CH | TNT SPORTS 2 SD 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170203
-#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS " tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="Argentina",StarPlay SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS " tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="Deportes",StarPlay SPORTS 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169262
 #EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1 FHD" tvg-logo="http://castlempire.site:8080/images/307fa2a4b572aed5cee3b8b8af693c5c.png" group-title="Chile",CH | FOX SPORTS 1 FHD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170102
@@ -127,10 +127,6 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/63712
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170096
 #EXTINF:-1 tvg-id="" tvg-name="CH | 24 HORAS" tvg-logo="http://castlempire.site:8080/images/595afb71bc0799b1565bd4bc1ccc3c60.png" group-title="Chile",CH | 24 HORAS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170094
-#EXTINF:-1 tvg-id="" tvg-name="10 TV" tvg-logo="https://lh3.googleusercontent.com/-r9pTOW2gmVA/XjtE8bqfCBI/AAAAAAAAvpc/E3ROz7ebsbEv7jKDOenNcl2xZkyjdnoawCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina Geo",10 TV
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/55749
-#EXTINF:-1 tvg-id="" tvg-name="13 Max Television" tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina Geo",13 Max Television
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/55690
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (e)(SD)" tvg-logo="http://castlempire.site:8080/images/893f53c159eab9178ab181bad8da4262.png" group-title="24/7",24/7 Alf (e)(SD)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169475
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Bob Esponja (e)" tvg-logo="http://castlempire.site:8080/images/e6f35393a4f3dccdde1b4e1c531e3fa8.png" group-title="24/7",24/7 VIP | Bob Esponja (e)
@@ -157,17 +153,17 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169430
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169388
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Ben 10" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054" group-title="24/7",24/7 | Ben 10
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169431
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Better Call Saul (ES)" tvg-logo="http://castlempire.site:8080/images/e5405a2debcab5bdac18cc065fb0b6a1.jpg" group-title="24/7 - Series",24/7 | Better Call Saul (ES)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Better Call Saul (ES)" tvg-logo="http://castlempire.site:8080/images/e5405a2debcab5bdac18cc065fb0b6a1.jpg" group-title="24/7",24/7 | Better Call Saul (ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169385
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantiflas" tvg-logo="http://castlempire.site:8080/images/d81653000babe2020c4f601c80bb4152.jpg" group-title="24/7",24/7 | Cantiflas
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169408
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS (M)" tvg-logo="http://castlempire.site:8080/images/2999fc3bf0ce758ad5294f9f6c2c663a.jpg" group-title="24/7",24/7 | CANTINFLAS (M)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169418
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | chernobyl (ES)" tvg-logo="http://castlempire.site:8080/images/f7b0e831da4d6e555505fa32253aa9b0.jpeg" group-title="24/7 - Series",24/7 | chernobyl (ES)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | chernobyl (ES)" tvg-logo="http://castlempire.site:8080/images/f7b0e831da4d6e555505fa32253aa9b0.jpeg" group-title="24/7",24/7 | chernobyl (ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169363
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="http://castlempire.site:8080/images/2c4a3b93f063617b3a3b76bb0e6786c7.jpg" group-title="24/7",24/7 | Chespirito
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169356
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Curon" tvg-logo="http://castlempire.site:8080/images/6501b707dcc2e94a8fb1d272b1ad6686.jpg" group-title="24/7 - Series",24/7 | Curon
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Curon" tvg-logo="http://castlempire.site:8080/images/6501b707dcc2e94a8fb1d272b1ad6686.jpg" group-title="24/7",24/7 | Curon
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169398
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dora, la exploradora" tvg-logo="http://castlempire.site:8080/images/6ae2a0f63caacc746b65417dcefefa47.jpg" group-title="24/7",24/7 | Dora, la exploradora
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169411
@@ -179,13 +175,13 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169424
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169457
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chavo del Ocho" tvg-logo="http://castlempire.site:8080/images/6e9478555bc375d7a3745e682db9ad8e.jpg" group-title="24/7",24/7 | El Chavo del Ocho
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169384
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El cuento de la criada" tvg-logo="http://castlempire.site:8080/images/07cb310963de9138534587c8ae1d0235.jpg" group-title="24/7 - Series",24/7 | El cuento de la criada
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El cuento de la criada" tvg-logo="http://castlempire.site:8080/images/07cb310963de9138534587c8ae1d0235.jpg" group-title="24/7",24/7 | El cuento de la criada
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169396
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | El Principel del Rap" tvg-logo="http://castlempire.site:8080/images/590f745755324c6f25bdccc673d66a24.jpg" group-title="24/7",24/7 | El Principel del Rap
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169378
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | El proyecto Z" tvg-logo="http://castlempire.site:8080/images/fd7190440915007dea1fe05da5ea5f6b.jpg" group-title="24/7",24/7 | El proyecto Z
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169452
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Games of Thrones" tvg-logo="http://castlempire.site:8080/images/4d4e4d6c21de6e8b470c0df620ec83f2.jpg" group-title="24/7 - Series",24/7 | Games of Thrones
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Games of Thrones" tvg-logo="http://castlempire.site:8080/images/4d4e4d6c21de6e8b470c0df620ec83f2.jpg" group-title="24/7",24/7 | Games of Thrones
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169379
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Garfield" tvg-logo="http://castlempire.site:8080/images/f403d8f3fcefb959c531fa1ffb2ae895.jpg" group-title="24/7",24/7 | Garfield
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169434
@@ -197,15 +193,15 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169455
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169401
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Harry Potter" tvg-logo="http://castlempire.site:8080/images/0d21c9528af5ce30b026257ea410cbde.png" group-title="24/7",24/7 | Harry Potter
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169362
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Historia de un crimen: La búsqueda" tvg-logo="http://castlempire.site:8080/images/5889dc015a2b9ae0a10f7935a7f23aac.jpg" group-title="24/7 - Series",24/7 | Historia de un crimen: La búsqueda
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Historia de un crimen: La búsqueda" tvg-logo="http://castlempire.site:8080/images/5889dc015a2b9ae0a10f7935a7f23aac.jpg" group-title="24/7",24/7 | Historia de un crimen: La búsqueda
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169407
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Hollywood" tvg-logo="http://castlempire.site:8080/images/434ef0b512534a43876f24342e606143.jpg" group-title="24/7 - Series",24/7 | Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Hollywood" tvg-logo="http://castlempire.site:8080/images/434ef0b512534a43876f24342e606143.jpg" group-title="24/7",24/7 | Hollywood
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169405
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | iCarly ( ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Icarly-logo.svg/245px-Icarly-logo.svg.png" group-title="24/7",24/7 | iCarly ( ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169394
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Infantiles" tvg-logo="http://castlempire.site:8080/images/36fa774e2070c58cdc2ddb03d8645356.jpg" group-title="24/7",24/7 | Infantiles
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169441
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Into the Badlands" tvg-logo="http://castlempire.site:8080/images/79d27248b3275d671b782c22c472a781.jpg" group-title="24/7 - Series",24/7 | Into the Badlands
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Into the Badlands" tvg-logo="http://castlempire.site:8080/images/79d27248b3275d671b782c22c472a781.jpg" group-title="24/7",24/7 | Into the Badlands
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169403
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | JOHN WICK" tvg-logo="http://castlempire.site:8080/images/3e72bbe56b74a9417f47bdd3b70fdbd6.jpg" group-title="24/7",24/7 | JOHN WICK
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169369
@@ -225,7 +221,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169453
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169395
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Los misterios de Moville" tvg-logo="https://pics.filmaffinity.com/moville_mysteries_tv_series-293137444-large.jpg" group-title="24/7",24/7 | Los misterios de Moville
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169413
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los originales" tvg-logo="http://castlempire.site:8080/images/bc62729c9c9ae2470692ed1ad7366282.png" group-title="24/7 - Series",24/7 | Los originales
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los originales" tvg-logo="http://castlempire.site:8080/images/bc62729c9c9ae2470692ed1ad7366282.png" group-title="24/7",24/7 | Los originales
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169372
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Los padrinos mágicos" tvg-logo="http://castlempire.site:8080/images/2e2d46b05f40807cc4780bac030ea36f.jpg" group-title="24/7",24/7 | Los padrinos mágicos
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169415
@@ -267,11 +263,11 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169368
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169426
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | SHREK" tvg-logo="http://castlempire.site:8080/images/67bc58e40eded44b2670ea67813e0d96.jpg" group-title="24/7",24/7 | SHREK
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169370
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="http://castlempire.site:8080/images/49f8d8e83f0ccf32ce3b2999094e25c7.jpg" group-title="24/7 - Series",24/7 | Smallville
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="http://castlempire.site:8080/images/49f8d8e83f0ccf32ce3b2999094e25c7.jpg" group-title="24/7",24/7 | Smallville
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169381
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Space Force" tvg-logo="http://castlempire.site:8080/images/f2d347b65234c6fc757fd10087150fa9.jpg" group-title="24/7 - Series",24/7 | Space Force
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Space Force" tvg-logo="http://castlempire.site:8080/images/f2d347b65234c6fc757fd10087150fa9.jpg" group-title="24/7",24/7 | Space Force
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169406
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | SPARTACUS" tvg-logo="http://castlempire.site:8080/images/21534892f7680e9a79a06848211e7e67.jpg" group-title="24/7 - Series",24/7 | SPARTACUS
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SPARTACUS" tvg-logo="http://castlempire.site:8080/images/21534892f7680e9a79a06848211e7e67.jpg" group-title="24/7",24/7 | SPARTACUS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169367
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Spider-Man  (ES)" tvg-logo="http://castlempire.site:8080/images/8a7d9df84dc0765e21bd5b34e5f0df6f.jpg" group-title="24/7",24/7 | Spider-Man  (ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169386
@@ -281,13 +277,13 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169397
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169387
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Static Shock" tvg-logo="http://castlempire.site:8080/images/ac79c62e8594073bda44e83990e2d9ad.jpg" group-title="24/7",24/7 | Static Shock
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169454
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Stranger Things" tvg-logo="http://castlempire.site:8080/images/d5af3c125bbbc1f9eaecbbd58a5b0d5c.jpg" group-title="24/7 - Series",24/7 | Stranger Things
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Stranger Things" tvg-logo="http://castlempire.site:8080/images/d5af3c125bbbc1f9eaecbbd58a5b0d5c.jpg" group-title="24/7",24/7 | Stranger Things
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169402
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Street Sharks" tvg-logo="http://castlempire.site:8080/images/665a7bb0538500ce37544d55ecb9a412.jpg" group-title="24/7",24/7 | Street Sharks
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169451
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Avengers (ES)" tvg-logo="http://castlempire.site:8080/images/3514455ff8a62d1815d3586614ac6615.jpg" group-title="24/7",24/7 | The Avengers (ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169364
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="http://castlempire.site:8080/images/1a290349294683dc2dc4879e2ca13b3d.jpg" group-title="24/7 - Series",24/7 | The Big Bang Theory
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="http://castlempire.site:8080/images/1a290349294683dc2dc4879e2ca13b3d.jpg" group-title="24/7",24/7 | The Big Bang Theory
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169361
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Hangover (ES)" tvg-logo="http://castlempire.site:8080/images/ad682e5db7678b6f8176f57a7387dc2d.jpg" group-title="24/7",24/7 | The Hangover (ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169355
@@ -295,7 +291,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169355
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169412
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | TOY STORY" tvg-logo="http://castlempire.site:8080/images/701820288eca6498ae9446f85401b901.jpg" group-title="24/7",24/7 | TOY STORY
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169371
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Warrior (ES)" tvg-logo="http://castlempire.site:8080/images/5199fdfb98e984a60877a61078b13356.jpg" group-title="24/7 - Series",24/7 | Warrior (ES)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Warrior (ES)" tvg-logo="http://castlempire.site:8080/images/5199fdfb98e984a60877a61078b13356.jpg" group-title="24/7",24/7 | Warrior (ES)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169404
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | #VAMOS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og=s900-c-k-c0xffffffff-no-rj-mo" group-title="Deportes",DEPORTES | #VAMOS HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169940
@@ -331,7 +327,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169927
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169990
 #EXTINF:-1 tvg-id="" tvg-name="CH | CDO PREMIUM" tvg-logo="http://castlempire.site:8080/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="Chile",CH | CDO PREMIUM
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169979
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CDO Premium SD" tvg-logo="http://castlempire.site:8080/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="**DEPORTES SD**⚽",DEPORTES | CDO Premium SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CDO Premium SD" tvg-logo="http://castlempire.site:8080/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="Deportes",DEPORTES | CDO Premium SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169977
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Claro Sport HD" tvg-logo="http://castlempire.site:8080/images/9cf8886ad93cb12600a72949c8ce4039.jpg" group-title="Deportes",DEPORTES | Claro Sport HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169912
@@ -343,7 +339,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169960
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169962
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | El Garage" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0018/2274/brand.gif?itok=sH1UGnPO" group-title="Deportes",DEPORTES | El Garage
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169913
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn SD" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="**DEPORTES SD**⚽",DEPORTES | Espn SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn SD" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="Deportes",DEPORTES | Espn SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169897
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="Deportes",DEPORTES | ESPN
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169994
@@ -359,27 +355,27 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169963
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169964
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn 2" tvg-logo="http://castlempire.site:8080/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",DEPORTES | Espn 2
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169898
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 SD" tvg-logo="http://castlempire.site:8080/images/7a081b5e6217d335a87992a553d155e7.png" group-title="**DEPORTES SD**⚽",DEPORTES | ESPN 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 SD" tvg-logo="http://castlempire.site:8080/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",DEPORTES | ESPN 2 SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169965
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 2 HD" tvg-logo="http://castlempire.site:8080/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",DEPORTES | ESPN 2 HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169966
-#EXTINF:-1 tvg-id="" tvg-name="MEX |  ESPN 2 MX" tvg-logo="http://castlempire.site:8080/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Mexico HD",MEX |  ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-name="MEX |  ESPN 2 MX" tvg-logo="http://castlempire.site:8080/images/7a081b5e6217d335a87992a553d155e7.png" group-title="Deportes",MEX |  ESPN 2 MX
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169903
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn 3" tvg-logo="http://castlempire.site:8080/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="Deportes",DEPORTES | Espn 3
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169899
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 Arg" tvg-logo="http://castlempire.site:8080/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="Deportes",DEPORTES | ESPN 3 Arg
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169967
-#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 3 MX" tvg-logo="http://castlempire.site:8080/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="Mexico HD",MEX | ESPN 3 MX
+#EXTINF:-1 tvg-id="" tvg-name="MEX | ESPN 3 MX" tvg-logo="http://castlempire.site:8080/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="Deportes",MEX | ESPN 3 MX
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169904
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3 SUR FHD" tvg-logo="http://castlempire.site:8080/images/dd272cae52a07e92471763b8b6222fb6.png" group-title="Deportes",DEPORTES | ESPN 3 SUR FHD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169970
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN DEPORTES HD" tvg-logo="http://castlempire.site:8080/images/d5c50a427955b6d9a76d41dcbc175a28.png" group-title="Deportes",DEPORTES | ESPN DEPORTES HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169900
-#EXTINF:-1 tvg-id="" tvg-name="MEX |  ESPN MX" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="Mexico HD",MEX |  ESPN MX
+#EXTINF:-1 tvg-id="" tvg-name="MEX |  ESPN MX" tvg-logo="http://castlempire.site:8080/images/d36ee471443ae0fb4d65a8a8606f6614.png" group-title="Deportes",MEX |  ESPN MX
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169902
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN News" tvg-logo="https://seeklogo.com/images/E/ESPNEWS-logo-9A8AE2A0D3-seeklogo.com.gif" group-title="Deportes",DEPORTES | ESPN News
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169995
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus SD" tvg-logo="http://castlempire.site:8080/images/0e605c67fc56b7f5f4c2f40fd6dd6280.jpg" group-title="**DEPORTES SD**⚽",DEPORTES | Espn Plus SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Espn Plus SD" tvg-logo="http://castlempire.site:8080/images/0e605c67fc56b7f5f4c2f40fd6dd6280.jpg" group-title="Deportes",DEPORTES | Espn Plus SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169901
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN U" tvg-logo="http://castlempire.site:8080/images/01e137b073df2a00433f0cda0a382a6b.jpg" group-title="Deportes",DEPORTES | ESPN U
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169996
@@ -403,11 +399,11 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169890
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169980
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 1" tvg-logo="http://castlempire.site:8080/images/2961e55e7c8ac1eb2e8e11edc1fe2d7b.jpg" group-title="Deportes",DEPORTES | Fox Sports 1
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169999
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 1 SD Arg" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="**DEPORTES SD**⚽",DEPORTES | FOX SPORTS 1 SD Arg
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 1 SD Arg" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="Deportes",DEPORTES | FOX SPORTS 1 SD Arg
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169953
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 1 MX" tvg-logo="http://castlempire.site:8080/images/37367970b7a062593de7bd0b7d03c561.jpg" group-title="Deportes",DEPORTES | Fox Sports 1 MX
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169894
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 SD" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="**DEPORTES SD**⚽",DEPORTES | Fox Sports 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 SD" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="Deportes",DEPORTES | Fox Sports 2 SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169891
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="Deportes",DEPORTES | FOX SPORTS 2
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169981
@@ -415,9 +411,9 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169981
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170000
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2 HD Arg" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="Deportes",DEPORTES | FOX SPORTS 2 HD Arg
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169955
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 MX SD" tvg-logo="http://castlempire.site:8080/images/1be7cefc42f9887d8e5221e48fdcf965.png" group-title="**DEPORTES SD**⚽",DEPORTES | Fox Sports 2 MX SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 2 MX SD" tvg-logo="http://castlempire.site:8080/images/1be7cefc42f9887d8e5221e48fdcf965.png" group-title="Deportes",DEPORTES | Fox Sports 2 MX SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169895
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2 SD Arg" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="**DEPORTES SD**⚽",DEPORTES | FOX SPORTS 2 SD Arg
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2 SD Arg" tvg-logo="http://castlempire.site:8080/images/b336db89cb4b972292807308605e2a66.png" group-title="Deportes",DEPORTES | FOX SPORTS 2 SD Arg
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169954
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 3" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="Deportes",DEPORTES | Fox Sports 3
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169892
@@ -425,7 +421,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169892
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169957
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports 3 MX" tvg-logo="http://castlempire.site:8080/images/2a84b72149f03d9f12a410bebec4c96a.png" group-title="Deportes",DEPORTES | Fox Sports 3 MX
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169896
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 SD Arg" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="**DEPORTES SD**⚽",DEPORTES | FOX SPORTS 3 SD Arg
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 SD Arg" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="Deportes",DEPORTES | FOX SPORTS 3 SD Arg
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169956
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Fox Sports Premium" tvg-logo="http://castlempire.site:8080/images/7c869f8d86a560173f7ec0e6b72975b1.png" group-title="Deportes",DEPORTES | Fox Sports Premium
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169959
@@ -437,7 +433,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170011
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169985
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV ESP" tvg-logo="http://castlempire.site:8080/images/d21cf3f28df92aef3e6585042635d72b.jpg" group-title="Deportes",DEPORTES | GOL TV ESP
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169951
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Golf Channel SD" tvg-logo="http://castlempire.site:8080/images/9f6300b215db8911a0c2f41c864804c2.png" group-title="**DEPORTES SD**⚽",DEPORTES | Golf Channel SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Golf Channel SD" tvg-logo="http://castlempire.site:8080/images/9f6300b215db8911a0c2f41c864804c2.png" group-title="Deportes",DEPORTES | Golf Channel SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169914
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/movistar-golf.jpg" group-title="Deportes",DEPORTES | GOLF HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169945
@@ -477,11 +473,11 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169941
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170058
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SNY" tvg-logo="http://castlempire.site:8080/images/10a6c5abe392ebb1439c9c8345717afa.png" group-title="Deportes",DEPORTES | SNY
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170022
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SportsNet 360 SD" tvg-logo="http://castlempire.site:8080/images/d205d2cbcab7f197fe02627f114659dc.jpg" group-title="**DEPORTES SD**⚽",DEPORTES | SportsNet 360 SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SportsNet 360 SD" tvg-logo="http://castlempire.site:8080/images/d205d2cbcab7f197fe02627f114659dc.jpg" group-title="Deportes",DEPORTES | SportsNet 360 SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170049
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SportsNet One" tvg-logo="http://castlempire.site:8080/images/867a53df739d8f03de080b70500cf788.png" group-title="Deportes",DEPORTES | SportsNet One
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170051
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SportsNets Ontario SD" tvg-logo="http://castlempire.site:8080/images/d8ab741f603851c9d4f15b814195e611.png" group-title="**DEPORTES SD**⚽",DEPORTES | SportsNets Ontario SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SportsNets Ontario SD" tvg-logo="http://castlempire.site:8080/images/d8ab741f603851c9d4f15b814195e611.png" group-title="Deportes",DEPORTES | SportsNets Ontario SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170050
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://castlempire.site:8080/images/3b2fdcbe9790be3b0e1eb2e55a72babb.png" group-title="Deportes",DEPORTES | SPORTV
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170037
@@ -489,7 +485,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170037
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169992
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TNT SPORTS" tvg-logo="http://castlempire.site:8080/images/dade0532d9af9cde78f0b35201cb3f3f.jpg" group-title="Deportes",DEPORTES | TNT SPORTS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169973
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TNT Sports SD" tvg-logo="http://castlempire.site:8080/images/dade0532d9af9cde78f0b35201cb3f3f.jpg" group-title="**DEPORTES SD**⚽",DEPORTES | TNT Sports SD
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TNT Sports SD" tvg-logo="http://castlempire.site:8080/images/dade0532d9af9cde78f0b35201cb3f3f.jpg" group-title="Deportes",DEPORTES | TNT Sports SD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169972
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TOROS HD" tvg-logo="http://castlempire.site:8080/images/b756cdd646dafe4a87414f5f1f1ac078.jpg" group-title="Deportes",DEPORTES | TOROS HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169916
