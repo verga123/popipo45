@@ -527,7 +527,7 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=9df1402e-7af4-11eb-8477-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png" group-title="24/7",24/7 Resident Evil Channel
 https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=EqWQcZENkTU
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://i.pinimg.com/736x/2a/db/37/2adb372e1a8aab8c866d093e3cd9574b.jpg" group-title="Musica", 24/7 LoFi Hiphop Radio
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://i.pinimg.com/736x/2a/db/37/2adb372e1a8aab8c866d093e3cd9574b.jpg" group-title="Music", 24/7 LoFi Hiphop Radio
 https://m3u-fork.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jfKfPfyJRdk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="Chile", Canal 9 Regional
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
