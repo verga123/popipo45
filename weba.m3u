@@ -1,37 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 1
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1843
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",CDF 2
-http://51.222.25.50:2999/bulltvn3w/appnew/538
-#EXTINF:-1 tvg-id="MOVISTAR DEPORTES *HD" tvg-name="MOVISTAR DEPORTES *HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jMgvlpQbDm4tXyq3AF2DoDC3NJGUrbuIwjCYvGGxl-SLD2pT&s" group-title="Sport",MOVISTAR DEPORTES *HD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1828
-#EXTINF:-1 tvg-id="MOVISTAR DEPORTES *FHD" tvg-name="MOVISTAR DEPORTES *FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jMgvlpQbDm4tXyq3AF2DoDC3NJGUrbuIwjCYvGGxl-SLD2pT&s" group-title="Sport",MOVISTAR DEPORTES *FHD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1829
-#EXTINF:-1 tvg-id="TNT SPORTS *FHD" tvg-name="TNT SPORTS AR *FHD" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/facebook.jpg" group-title="Sport",TNT SPORTS AR *FHD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1816
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HQ
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1843
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1844
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *HD | op2" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *HD | op2
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1845
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *FHD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *FHD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1846
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS HD CHILE *FHD | op2" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS HD CHILE *FHD | op2
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1847
-#EXTINF:-1 tvg-id="CDF ESTADIO *FHD" tvg-name="TNT SPORTS 2 CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 2 CHILE *HQ
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/41171
-#EXTINF:-1 tvg-id="UR | CANAL 10" tvg-name="TNT SPORTS 2 CHILE *HD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 2 CHILE *HD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1842
-#EXTINF:-1 tvg-id="TNT SPORTS 2 CHILE *HD" tvg-name="TNT SPORTS 2 CHILE *FHD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 2 CHILE *FHD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/41589
-#EXTINF:-1 tvg-id="CDF BASICO *HQ" tvg-name="TNT SPORTS 3 CHILE *HQ" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 3 CHILE *HQ
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/1841
-#EXTINF:-1 tvg-id="TNT SPORTS 3 CHILE *FHD" tvg-name="TNT SPORTS 3 CHILE *HD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 3 CHILE *HD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/41170
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 CHILE *FHD" tvg-logo="https://dalealbo.cl/__export/1610909774231/sites/dalealbo/img/2021/01/17/tnttntntnt_1_crop1610909773887.jpg_1005196607.jpg" group-title="Sport",TNT SPORTS 3 CHILE *FHD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/42335
-#EXTINF:-1 tvg-id="CDF ESTADIO *HD" tvg-name="ESTADIO TNT SPORTS *HQ" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="Sport",ESTADIO TNT SPORTS *HQ
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/40737
-#EXTINF:-1 tvg-id="CDF ESTADIO *HD" tvg-name="ESTADIO TNT SPORTS *HD" tvg-logo="https://pbs.twimg.com/media/Er5yR_-XEAAU3Jj.jpg" group-title="Sport",ESTADIO TNT SPORTS *HD
-http://xdgo.live:8080/mami2212002/As4DHpLBvA/40736
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 1 Chile HD " tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="DEPORTES",StarPlay SPORTS 1 Chile HD 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/179131
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 2 Chile HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="DEPORTES",StarPlay SPORTS 2 Chile HD
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/179132
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 3 Chile HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="DEPORTES",StarPlay SPORTS 3 Chile HD
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/198985
+#EXTINF:-1 tvg-id="" tvg-name="Chile | TNT SPORTS  HD (E)" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES",Chile | TNT SPORTS  HD (E)
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/176196
+#EXTINF:-1 tvg-id="" tvg-name="Chile | TNT SPORTS BASICO HD" tvg-logo="http://castlempire.site:8080/images/12c3bae74a93fe15fdb66f06c1f9993d.png" group-title="DEPORTES",Chile | TNT SPORTS BASICO HD
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/176205
+#EXTINF:-1 tvg-chno="9" tvg-id="TNTSports1.cl" tvg-name="TNTSports1.cl" tvg-logo="https://i.imgur.com/uvZnsAy.png" group-title="DEPORTES",TNT Sports HD
+http://line.powerdino.com/4375a1dd43/649f75a876/265085
+#EXTINF:-1 tvg-chno="10" tvg-id="TNTSports2.cl" tvg-name="TNTSports2.cl" tvg-logo="https://i.imgur.com/Su235Ms.png" group-title="DEPORTES",TNT Sports 2
+http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/6818.ts
+#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 3
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
