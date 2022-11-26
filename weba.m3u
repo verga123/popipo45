@@ -1,17 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 1 Chile HD " tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="DEPORTES",StarPlay SPORTS 1 Chile HD 
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/179131
+http://castlempire.site:8080/cliente3226/123456/179131
 #EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 2 Chile HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="DEPORTES",StarPlay SPORTS 2 Chile HD
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/179132
+http://castlempire.site:8080/cliente3226/123456/179132
 #EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 3 Chile HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="DEPORTES",StarPlay SPORTS 3 Chile HD
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/198985
+http://castlempire.site:8080/cliente3226/123456/198985
 #EXTINF:-1 tvg-id="" tvg-name="Chile | TNT SPORTS  HD (E)" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES",Chile | TNT SPORTS  HD (E)
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/176196
+http://castlempire.site:8080/cliente3226/123456/176196
 #EXTINF:-1 tvg-id="" tvg-name="Chile | TNT SPORTS BASICO HD" tvg-logo="http://castlempire.site:8080/images/12c3bae74a93fe15fdb66f06c1f9993d.png" group-title="DEPORTES",Chile | TNT SPORTS BASICO HD
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/176205
+http://castlempire.site:8080/cliente3226/123456/176205
 #EXTINF:-1 tvg-chno="9" tvg-id="TNTSports1.cl" tvg-name="TNTSports1.cl" tvg-logo="https://i.imgur.com/uvZnsAy.png" group-title="DEPORTES",TNT Sports HD
 http://line.powerdino.com/4375a1dd43/649f75a876/265085
 #EXTINF:-1 tvg-chno="10" tvg-id="TNTSports2.cl" tvg-name="TNTSports2.cl" tvg-logo="https://i.imgur.com/Su235Ms.png" group-title="DEPORTES",TNT Sports 2
 http://iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/6818.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 3
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="" tvg-name="COL | DIRECTV SPORTS 2 HD" tvg-logo="http://castlempire.site:8080/images/3c3f3ae7b8c985359e2efaa5ed6a0c07.jpg" group-title="Colombia",COL | DIRECTV SPORTS 2 HD
+http://castlempire.site:8080/cliente3226/123456/193688
