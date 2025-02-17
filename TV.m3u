@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz"
+#EXTM3U
+
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-name="Descubriendo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV" tvg-chno="1", Descubriendo Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
